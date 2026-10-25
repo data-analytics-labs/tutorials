@@ -1,0 +1,301 @@
+response_id,role,industry,years_experience_numeric,experience_text,preferred_analytics_tool,other_tools_text,confidence_rating,career_goal,remote_preference,free_text_challenge
+SR0001,Analytics Engineer,Technology,7,I've worked in analytics for 5 years.,Pyhton,"SQL, Excel",4,Improve stakeholder communication,Hybrid ,Learning new tools while working full-time
+SR0002,Junior Data Analyst,Government,4,Experience: 3 yrs,python,Sequel / Power-BI,4,Learn cloud data tools,Not sure,Data quality is inconsistent
+SR0003,Data Scientist,Government,8,Around 2 year(s) in data,Pythn,Structured Query Language; Tableau,3,Move into data science,Remote,Getting access to the right data
+SR0004,Junior Data Analyst,Retail,,10+ years in analytics,SQL,"MS Excel, PYTHON",4,Move into analytics management,Remote,Turning analysis into business action
+SR0005,Operations Analyst,Government,4,Working in data for 7y,PowerBI,"PySpark, SQL",5,Learn cloud data tools,On-site,Learning new tools while working full-time
+SR0006,Operations Analyst,Manufacturing,,I've been an analyst for 1 years,PBI,"Power BI Desktop, Excel",5,Learn machine learning,Hybrid ,Getting access to the right data
+SR0007,Business Analyst,Other,8,5 years' experience,Tabluea,"Tableau, Python",5,Build a portfolio,Hybrid ,None at the moment
+SR0008,Junior Data Analyst,Technology,1,About 4 yrs in the field,S.Q.L.,"SQL, dbt",3,Learn cloud data tools,Hybrid,Getting access to the right data
+SR0009,Reporting Analyst,Manufacturing,0,"Ten years in analytics, mainly Python",py,"Python 3, Excel",5,Improve stakeholder communication,Not sure,Data quality is inconsistent
+SR0010,Data Scientist,Other,0,A few years working with data and SQL,Structured Query Language,"Sequel, Power BI",4,Learn cloud data tools,Remote,None at the moment
+SR0011,Junior Data Analyst,Finance,2,Less than a year of experience.,R,"R programming, Excel",4,Build a portfolio,Hybrid,Getting clean data from different systems
+SR0012,Data Analyst,Education,0,Several years in analytics; currently using Tableau.,Java script,"JS, Python",1,Move into data science,Not sure,Getting access to the right data
+SR0013,Analytics Engineer,Finance,2,I have 0 years of experience; just starting out.,Excell,"Microsoft Excel, SQL",5,Learn machine learning,On-site,Too many manual reports
+SR0014,Business Analyst,Finance,2,"12 years in analytics, mostly Power BI Desktop.",Power BI,"PBI, Power-BI",4,Learn cloud data tools,On-site,Learning new tools while working full-time
+SR0015,Business Analyst,Healthcare,3,I've worked in analytics for 5 years. 😊,SQL,"Structured Query Language, Sequel",4,Build a portfolio,Hybrid,Explaining results to non-technical stakeholders
+SR0016,Junior Data Analyst,Government,10,10+ years in analytics,Power BI Desktop,java script; learning dbt,1,Learn machine learning,remote,Getting clean data from different systems
+SR0017,Analytics Engineer,Healthcare,4,Working in data for 4y,S.Q.L.,"JS, SQl",5,Improve data storytelling,Hybrid,Getting access to the right data
+SR0018,Business Analyst,Finance,8,I've worked in analytics for 8 years.,Tableu,None yet,4,Move into data science,Hybrid ,Explaining results to non-technical stakeholders
+SR0019,Operations Analyst,Healthcare,6,Around 6 year(s) in data,Excell,"Python 3, py",1,Build a portfolio,Hybrid ,Getting access to the right data
+SR0020,Junior Data Analyst,Finance,3,Less than a year of experience.,R programming,Python 3; learning dbt,4,Improve data storytelling,Remote,Data quality is inconsistent
+SR0021,Data Scientist,Finance,,Less than a year of experience.,python,"py, Python 3",4,Learn cloud data tools,Remote,Getting clean data from different systems
+SR0022,Operations Analyst,,4,"Ten years in analytics, mainly Tabluea.",Tabluea,Mostly Tableu and Excel,2,Learn machine learning,remote,None at the moment
+SR0023,BI Analyst,Technology,3,Around 3 year(s) in data,Apache Spark,"Tableau Desktop, Spark",3,Learn cloud data tools,Remote,Explaining results to non-technical stakeholders
+SR0024,Operations Analyst,Other,12,12+ years in analytics,Pyhton,tableau / Pythn,5,Improve data storytelling,Hybrid,Explaining results to non-technical stakeholders
+SR0025,Reporting Analyst,Government,2,Experience: 2 yrs,Spark,Mostly Apache Spark and Excel,1,Improve data storytelling,Not sure,Turning analysis into business action
+SR0026,Operations Analyst,Other,10,Less than a year of experience.,Structured Query Language,Tableau; learning dbt,1,Improve SQL skills,Not sure,None at the moment
+SR0027,Analytics Engineer,Education,4,A few years working with data and pyspark.,Apache Spark,Python 3; learning dbt,5,Improve SQL skills,On-site,Getting access to the right data
+SR0028,Business Analyst,Government,7,Experience: 7 yrs,Excell,"Tabluea, Tableau",5,Improve stakeholder communication,remote,Data quality is inconsistent
+SR0029,Business Analyst,Manufacturing,12,Working in data for 12y,Tableau Desktop,None yet,5,Automate reporting,Hybrid,Explaining results to non-technical stakeholders
+SR0030,Analytics Engineer,Manufacturing,3,I've worked in analytics for 3 years.,python,None yet,5,Learn machine learning,On-site,Explaining results to non-technical stakeholders
+SR0031,Data Analyst,Education,,About 3 yrs in the field — still learning,Excell,"SQl, sql",1,Learn cloud data tools,Remote,Explaining results to non-technical stakeholders
+SR0032,Business Analyst,Retail,1,I started recently and am still learning PBI.,Power-BI,None yet,5,Move into data science,Remote,Getting clean data from different systems
+SR0033,Operations Analyst,Technology,4,I started recently and am still learning Tableau.,Tabluea,Python / tableau,1,Learn machine learning,remote,Explaining results to non-technical stakeholders
+SR0034,Analytics Engineer,Healthcare,2,Around 2 year(s) in data,R language,Mostly R and Excel,5,Move into analytics management,Hybrid ,Learning new tools while working full-time
+SR0035,Data Analyst,Other,7,Experience: 7 yrs,Tabluea,"python, PYTHON",5,Improve stakeholder communication,On-site,Getting clean data from different systems
+SR0036,Junior Data Analyst,Manufacturing,,I've been an analyst for 6 years,R,Tableau Desktop / R language,3,,remote,Data quality is inconsistent
+SR0037,Operations Analyst,Manufacturing,5,I started recently and am still learning Python 3.,PYTHON,"Tableu, PYTHON",1,Learn cloud data tools,Remote,Too many manual reports
+SR0038,Operations Analyst,Education,3,Around 3 year(s) in data,SQL,None yet,5,Improve SQL skills,Remote,Getting clean data from different systems
+SR0039,Data Analyst,Retail,7,Experience: 7 yrs,Power-BI,"PySpark, pyspark",5,Move into data science,Hybrid ,None at the moment
+SR0040,Operations Analyst,Government,2,2 years in analytics; mostly R.,R language,PySpark; learning dbt,2,Move into data science,Remote,Explaining results to non-technical stakeholders
+SR0041,Data Scientist,Finance,10,Working in data for 10y,Microsoft Excel,"excel, excel",3,Move into data science,Remote,Turning analysis into business action
+SR0042,Reporting Analyst,Education,10,Around 10 year(s) in data,excel,Mostly Excel and Excel,5,Automate reporting,Not sure,Turning analysis into business action
+SR0043,Junior Data Analyst,Manufacturing,5,About 5 yrs in the field,Tableau,JS; learning dbt,2,Move into data science,Hybrid ,Getting clean data from different systems
+SR0044,Junior Data Analyst,Healthcare,2,A few years working with data and Pythn.,python,PySpark / Pyhton,1,Improve stakeholder communication,Remote,Turning analysis into business action
+SR0045,Operations Analyst,Technology,3,I started recently and am still learning Tableu.,Tableu,Mostly tableau and Excel,2,Learn machine learning,On-site,None at the moment
+SR0046,Operations Analyst,Retail,6,Working in data for 6y,Javascript,S.Q.L. / JavaScript,4,Improve data storytelling,Hybrid ,Getting clean data from different systems
+SR0047,Data Analyst,Education,,About 4 yrs in the field,Tableau,PYTHON / Tableau Desktop,3,Learn machine learning,Hybrid,Turning analysis into business action
+SR0048,Data Scientist,Other,,Around 4 year(s) in data,JavaScript,Mostly JavaScript and Excel,1,Build a portfolio,Remote,Too many manual reports
+SR0049,Reporting Analyst,Education,6,Experience: 6 yrs,Tableau,JavaScript / Tabluea,2,Build a portfolio,Not sure,Too many manual reports
+SR0050,Data Analyst,Other,2,2 years' experience,PowerBI,"py, Python 3",3,Improve data storytelling,Hybrid ,Explaining results to non-technical stakeholders
+SR0051,Reporting Analyst,Healthcare,,Around 1 year(s) in data,Tableu,"R language, R language",5,Build a portfolio,Hybrid,Turning analysis into business action
+SR0052,Business Analyst,Other,6,I've worked in analytics for 6 years.,SQL,"Excel, SQl",1,Automate reporting,Hybrid ,Learning new tools while working full-time
+SR0053,BI Analyst,Manufacturing,12,Working in data for 12y,Sequel,None yet,3,Improve SQL skills,Remote,Too many manual reports
+SR0054,Analytics Engineer,Healthcare,,Experience: 2 yrs,Spark,None yet,5,Improve stakeholder communication,Hybrid,Turning analysis into business action
+SR0055,Business Analyst,Government,,I've worked in analytics for 8 years.,Tableau,excel / Tableau Desktop,4,Improve SQL skills,Not sure,Turning analysis into business action
+SR0056,Operations Analyst,Government,7,I've been an analyst for 7 years 😊,JavaScript,"Sequel, Javascript",1,Move into data science,remote,Getting clean data from different systems
+SR0057,Junior Data Analyst,Other,7,About 7 yrs in the field,Javascript,None yet,1,Move into analytics management,Remote,Getting access to the right data
+SR0058,Operations Analyst,,7,7 years' experience,Sequel,Mostly Sequel and Excel,3,Improve SQL skills,On-site,Data quality is inconsistent
+SR0059,Junior Data Analyst,Technology,3,About 3 yrs in the field,Microsoft Excel,"R language, R programming",2,Automate reporting,On-site,Getting clean data from different systems
+SR0060,Analytics Engineer,Other,2,I've worked in analytics for 2 years.,PowerBI,Mostly Power BI Desktop and Excel,5,Automate reporting,remote,Data quality is inconsistent
+SR0061,BI Analyst,Manufacturing,3,I've worked in analytics for 3 years. 😊,MS Excel,"Sequel, SQL",1,Learn machine learning,remote,Turning analysis into business action
+SR0062,Analytics Engineer,Education,12,I started recently and am still learning Excell. 😊,Excel,"PBI, Excell",2,Move into data science,On-site,Getting access to the right data
+SR0063,Operations Analyst,Manufacturing,6,Working in data for 6y,Excel,"Sequel, Excel",2,Move into data science,Hybrid,Learning new tools while working full-time
+SR0064,Data Analyst,Healthcare,,Around 6 year(s) in data,Tableu,Mostly Tabluea and Excel,2,Improve SQL skills,remote,Learning new tools while working full-time
+SR0065,Reporting Analyst,Technology,,Experience: 6 yrs,py,"excel, python",5,Automate reporting,Remote,Too many manual reports
+SR0066,Junior Data Analyst,Retail,4,Working in data for 4y — still learning,JavaScript,"Structured Query Language, JS",2,Improve data storytelling,Remote,Too many manual reports
+SR0067,Data Analyst,Government,15,Several years in analytics; currently using powerbi.,Power BI Desktop,"SQl, SQl",5,Automate reporting,remote,Turning analysis into business action
+SR0068,Analytics Engineer,Government,,6 years' experience,Microsoft Excel,pyspark / MS Excel,5,Move into data science,Not sure,Too many manual reports
+SR0069,Business Analyst,Finance,6,I've worked in analytics for 6 years.,py,java script / Python,5,Improve stakeholder communication,Hybrid,Turning analysis into business action
+SR0070,Junior Data Analyst,Government,,Working in data for 0y,Javascript,Excell / JavaScript,2,Improve SQL skills,Not sure,Turning analysis into business action
+SR0071,Analytics Engineer,Healthcare,5,Experience: 5 yrs,Excel,None yet,3,Move into data science,Remote,Getting access to the right data
+SR0072,Data Scientist,Finance,,I've worked in analytics for 5 years.,powerbi,pyspark; learning dbt,4,Move into analytics management,Remote,Learning new tools while working full-time
+SR0073,Data Analyst,Finance,,Working in data for 8y,SQL,"Tableu, sql",5,Automate reporting,Hybrid,Getting clean data from different systems
+SR0074,Junior Data Analyst,Government,1,I've been an analyst for 1 years,PySpark,"PySpark, PySpark",5,Automate reporting,remote,Getting access to the right data
+SR0075,Analytics Engineer,Other,4,I've worked in analytics for 4 years. (self-taught),SQl,Excel / SQL,4,Move into data science,Remote,Data quality is inconsistent
+SR0076,Reporting Analyst,Finance,,7 years' experience,SQL,None yet,2,Improve SQL skills,remote,Getting clean data from different systems
+SR0077,Business Analyst,Retail,10,About 10 yrs in the field 😊,powerbi,R programming; learning dbt,5,Learn machine learning,Remote,Learning new tools while working full-time
+SR0078,Junior Data Analyst,Finance,3,Around 3 year(s) in data,r,Mostly r and Excel,3,Move into analytics management,Hybrid ,None at the moment
+SR0079,Data Scientist,Healthcare,,A few years working with data and Python. (self-taught),PYTHON,"Javascript, JS",4,Learn machine learning,Remote,Data quality is inconsistent
+SR0080,Analytics Engineer,Finance,4,"Ten years in analytics, mainly S.Q.L..",Sequel,Mostly Structured Query Language and Excel,4,Improve stakeholder communication,Remote,Learning new tools while working full-time
+SR0081,Junior Data Analyst,Finance,,About 10 yrs in the field,PySpark,None yet,5,Learn cloud data tools,On-site,None at the moment
+SR0082,Data Analyst,Retail,7,Several years in analytics; currently using JS.,JavaScript,Mostly java script and Excel,3,Move into data science,Hybrid ,Learning new tools while working full-time
+SR0083,Data Scientist,Other,6,I've worked in analytics for 6 years. (self-taught),pyspark,"tableau, PySpark",3,Improve SQL skills,Remote,Data quality is inconsistent
+SR0084,Data Analyst,Manufacturing,4,"Ten years in analytics, mainly excel.",Microsoft Excel,"java script, Excel",2,Move into analytics management,Remote,Data quality is inconsistent
+SR0085,Business Analyst,Healthcare,15,I've been an analyst for 15 years,SQL,JavaScript / Sequel,4,Learn cloud data tools,Hybrid ,Learning new tools while working full-time
+SR0086,Data Scientist,Education,,I've worked in analytics for 5 years.,Python,JavaScript / py,3,Learn machine learning,Remote,Learning new tools while working full-time
+SR0087,Analytics Engineer,Government,6,6+ years in analytics — still learning,SQl,"Apache Spark, PySpark",4,Move into data science,Remote,Too many manual reports
+SR0088,Data Analyst,Manufacturing,,Experience: 4 yrs — still learning,Power BI Desktop,Mostly Power-BI and Excel,5,Build a portfolio,Not sure,Too many manual reports
+SR0089,BI Analyst,Manufacturing,5,"Ten years in analytics, mainly py.",Pyhton,"PySpark, py",5,Learn cloud data tools,Hybrid,Getting access to the right data
+SR0090,Data Scientist,Education,5,Around 5 year(s) in data,Tabluea,Mostly tableau and Excel,4,Automate reporting,Hybrid,Getting access to the right data
+SR0091,Analytics Engineer,Government,6,Several years in analytics; currently using S.Q.L..,SQL,Mostly S.Q.L. and Excel,4,Automate reporting,Not sure,Getting access to the right data
+SR0092,Data Analyst,Technology,,Working in data for 4y,sql,Power BI Desktop; learning dbt,5,Move into analytics management,Hybrid,Data quality is inconsistent
+SR0093,Data Analyst,Manufacturing,15,Several years in analytics; currently using R language.,R,Spark; learning dbt,5,Learn cloud data tools,Remote,Learning new tools while working full-time
+SR0094,Operations Analyst,Healthcare,3,3 years in analytics; mostly tableau. (self-taught),Tableau,Tabluea / Tableau,2,Move into analytics management,remote,Getting access to the right data
+SR0095,Analytics Engineer,Healthcare,,6+ years in analytics,JavaScript,"Pyhton, JS",3,Build a portfolio,Remote,Learning new tools while working full-time
+SR0096,Operations Analyst,Retail,5,5 years' experience,R,"Tabluea, R programming",4,Move into analytics management,Remote,Explaining results to non-technical stakeholders
+SR0097,Reporting Analyst,Retail,0,I started recently and am still learning PYTHON.,Pythn,Excell / Python,5,Move into data science,Hybrid,Getting clean data from different systems
+SR0098,Data Scientist,Manufacturing,7,I started recently and am still learning Structured Query Language.,Structured Query Language,Mostly SQL and Excel,2,Learn cloud data tools,Hybrid ,Explaining results to non-technical stakeholders
+SR0099,Reporting Analyst,Retail,8,8 years' experience,Sequel,"Javascript, Sequel",2,Improve stakeholder communication,Not sure,Data quality is inconsistent
+SR0100,Operations Analyst,Government,12,Around 12 year(s) in data,Sequel,"S.Q.L., Structured Query Language",4,Improve data storytelling,Remote,Data quality is inconsistent
+SR0101,Junior Data Analyst,Education,8,About 8 yrs in the field,Excell,Javascript / Excel,4,Automate reporting,Remote,Too many manual reports
+SR0102,Analytics Engineer,Finance,0,0 years' experience,powerbi,None yet,4,Improve stakeholder communication,Not sure,Turning analysis into business action
+SR0103,Reporting Analyst,Retail,1,Several years in analytics; currently using Pyhton.,py,Python / PYTHON,2,Improve data storytelling,On-site,Data quality is inconsistent
+SR0104,BI Analyst,,,About 1 yrs in the field,MS Excel,"R, MS Excel",5,Learn cloud data tools,Remote,Learning new tools while working full-time
+SR0105,Reporting Analyst,Retail,8,Around 8 year(s) in data 😊,Excel,"Apache Spark, pyspark",3,Automate reporting,Remote,Getting access to the right data
+SR0106,Operations Analyst,Technology,,5 years' experience,Structured Query Language,"tableau, tableau",3,Learn machine learning,On-site,Getting access to the right data
+SR0107,Business Analyst,Retail,0,I've been an analyst for 0 years,R,Mostly R and Excel,4,Build a portfolio,Hybrid ,Data quality is inconsistent
+SR0108,BI Analyst,Government,10,10 years in analytics; mostly Javascript.,Javascript,"Tableu, Javascript",2,Learn machine learning,Not sure,Data quality is inconsistent
+SR0109,BI Analyst,Technology,3,Working in data for 3y,R programming,S.Q.L. / r,5,Improve data storytelling,remote,Explaining results to non-technical stakeholders
+SR0110,Operations Analyst,Government,4,4 years' experience,Apache Spark,Excel / pyspark,2,Improve stakeholder communication,Hybrid ,Explaining results to non-technical stakeholders
+SR0111,Business Analyst,Manufacturing,5,I've been an analyst for 5 years,excel,None yet,5,Improve data storytelling,Hybrid ,Too many manual reports
+SR0112,Data Scientist,Education,0,A few years working with data and R.,r,PowerBI; learning dbt,5,,Remote,Data quality is inconsistent
+SR0113,Analytics Engineer,Technology,2,I've been an analyst for 2 years,pyspark,Mostly PySpark and Excel,4,Improve SQL skills,Not sure,Data quality is inconsistent
+SR0114,Data Analyst,Manufacturing,12,I've been an analyst for 12 years,JS,Power-BI / Javascript,2,Move into data science,Remote,Turning analysis into business action
+SR0115,Reporting Analyst,Technology,5,Experience: 5 yrs,Apache Spark,R programming / pyspark,4,Move into analytics management,Hybrid,Explaining results to non-technical stakeholders
+SR0116,Analytics Engineer,Other,5,5 years' experience,Apache Spark,None yet,5,Improve SQL skills,On-site,Getting access to the right data
+SR0117,BI Analyst,Retail,,2 years' experience,Pythn,"JS, JavaScript",1,Move into analytics management,Not sure,Getting clean data from different systems
+SR0118,Data Analyst,Government,12,I've worked in analytics for 12 years.,Tableau,Mostly Tableau and Excel,2,Automate reporting,remote,None at the moment
+SR0119,Business Analyst,Retail,,Around 6 year(s) in data,r,"S.Q.L., R language",4,Move into data science,Not sure,None at the moment
+SR0120,Junior Data Analyst,Technology,,Several years in analytics; currently using Excell.,excel,None yet,5,Improve SQL skills,Hybrid ,Data quality is inconsistent
+SR0121,Reporting Analyst,Retail,15,Around 15 year(s) in data,Sequel,Excel / sql,5,Move into analytics management,Remote,Explaining results to non-technical stakeholders
+SR0122,Analytics Engineer,Healthcare,5,Working in data for 5y,tableau,Mostly Tableu and Excel,2,Improve data storytelling,Remote,Getting clean data from different systems
+SR0123,Data Scientist,Finance,5,I've been an analyst for 5 years!!,R programming,None yet,2,Build a portfolio,Hybrid ,Learning new tools while working full-time
+SR0124,Reporting Analyst,Retail,,Less than a year of experience.,R,powerbi / R language,1,Learn cloud data tools,Not sure,Too many manual reports
+SR0125,BI Analyst,Government,0,0 years in analytics; mostly R.,R language,Mostly R and Excel,5,Move into data science,remote,Getting access to the right data
+SR0126,BI Analyst,Government,,Around 7 year(s) in data,JS,"PBI, Power-BI",2,Move into analytics management,Not sure,Too many manual reports
+SR0127,Data Scientist,Retail,6,I've worked in analytics for 6 years.,Sequel,None yet,4,Learn machine learning,On-site,None at the moment
+SR0128,Data Scientist,Healthcare,8,Around 8 year(s) in data,pyspark,"SQL, S.Q.L.",5,Improve SQL skills,Hybrid,Turning analysis into business action
+SR0129,Reporting Analyst,Healthcare,8,Working in data for 8y,java script,None yet,3,Automate reporting,Not sure,Turning analysis into business action
+SR0130,BI Analyst,Manufacturing,12,Around 12 year(s) in data,PySpark,Mostly Apache Spark and Excel,5,Move into data science,Remote,Data quality is inconsistent
+SR0131,Business Analyst,Healthcare,15,I've been an analyst for 15 years,Tableau,Sequel; learning dbt,4,Build a portfolio,Remote,Getting clean data from different systems
+SR0132,Data Analyst,Technology,,Working in data for 6y,JavaScript,Sequel / JavaScript,1,Improve data storytelling,Hybrid,Explaining results to non-technical stakeholders
+SR0133,Data Scientist,Manufacturing,3,Working in data for 3y,S.Q.L.,"R language, SQL",4,Move into analytics management,Hybrid,None at the moment
+SR0134,Business Analyst,Other,7,Several years in analytics; currently using sql.,sql,"Microsoft Excel, Microsoft Excel",4,Learn cloud data tools,Hybrid,None at the moment
+SR0135,Operations Analyst,Healthcare,6,6 years' experience,Javascript,JavaScript / JavaScript,3,Improve data storytelling,remote,Getting clean data from different systems
+SR0136,Operations Analyst,Technology,2,2 years in analytics; mostly Power BI.,powerbi,JavaScript / powerbi,1,Improve stakeholder communication,Not sure,Learning new tools while working full-time
+SR0137,Reporting Analyst,Healthcare,10,I've been an analyst for 10 years,Excel,None yet,3,Move into data science,Not sure,Learning new tools while working full-time
+SR0138,Data Analyst,Healthcare,2,2 years' experience!!,java script,Mostly java script and Excel,3,Learn cloud data tools,Hybrid,Turning analysis into business action
+SR0139,Reporting Analyst,Education,6,About 6 yrs in the field,excel,None yet,5,Learn machine learning,Not sure,Turning analysis into business action
+SR0140,Analytics Engineer,Technology,6,I've worked in analytics for 6 years.!!,R programming,java script; learning dbt,1,Move into data science,remote,Getting access to the right data
+SR0141,Analytics Engineer,Education,10,Less than a year of experience.,Pythn,"Structured Query Language, PYTHON",4,Improve data storytelling,Hybrid,Explaining results to non-technical stakeholders
+SR0142,Operations Analyst,Other,0,"Ten years in analytics, mainly Tabluea.",Tableau Desktop,python; learning dbt,5,Improve stakeholder communication,remote,Learning new tools while working full-time
+SR0143,Operations Analyst,Education,,A few years working with data and Tableau.,Tableau Desktop,Mostly Tableu and Excel,5,Move into analytics management,Hybrid,Too many manual reports
+SR0144,Business Analyst,Healthcare,0,0 years' experience,PowerBI,Apache Spark; learning dbt,4,Build a portfolio,On-site,None at the moment
+SR0145,Operations Analyst,Finance,1,"Ten years in analytics, mainly Power BI Desktop.",Power BI,"excel, PowerBI",4,Improve data storytelling,Not sure,Too many manual reports
+SR0146,Operations Analyst,Healthcare,0,Experience: 0 yrs,PySpark,Javascript / Apache Spark,4,Improve stakeholder communication,On-site,Getting clean data from different systems
+SR0147,Business Analyst,Other,4,I've been an analyst for 4 years,SQL,"pyspark, Spark",4,Build a portfolio,Remote,None at the moment
+SR0148,Data Scientist,Other,7,7 years' experience,powerbi,Tableu / Power BI,3,Move into analytics management,remote,Getting clean data from different systems
+SR0149,Operations Analyst,Manufacturing,6,Less than a year of experience.,Tableau Desktop,"excel, Tableu",3,Learn cloud data tools,remote,Learning new tools while working full-time
+SR0150,Data Scientist,Manufacturing,5,I started recently and am still learning R programming.,r,Mostly r and Excel,4,Learn machine learning,Hybrid,None at the moment
+SR0151,Data Analyst,Healthcare,,About 5 yrs in the field,java script,"Tableu, Tableau Desktop",5,Move into analytics management,remote,Getting clean data from different systems
+SR0152,Data Analyst,Retail,2,A few years working with data and sql.,Structured Query Language,None yet,5,Improve data storytelling,Hybrid,Getting access to the right data
+SR0153,BI Analyst,Other,0,Working in data for 0y!!,Apache Spark,Mostly pyspark and Excel,4,Automate reporting,remote,Learning new tools while working full-time
+SR0154,Data Analyst,Finance,10,Around 10 year(s) in data,SQL,pyspark; learning dbt,2,Improve SQL skills,remote,Explaining results to non-technical stakeholders
+SR0155,Reporting Analyst,Technology,2,Several years in analytics; currently using MS Excel.,Microsoft Excel,JavaScript / Microsoft Excel,4,Improve data storytelling,remote,Explaining results to non-technical stakeholders
+SR0156,Analytics Engineer,Other,5,5+ years in analytics,Power BI Desktop,"JavaScript, JavaScript",4,Improve stakeholder communication,remote,Data quality is inconsistent
+SR0157,Data Scientist,Retail,8,Around 8 year(s) in data,SQl,"JavaScript, Sequel",5,Build a portfolio,Not sure,Learning new tools while working full-time
+SR0158,Business Analyst,Government,5,"Ten years in analytics, mainly Tabluea. 😊",Tableau Desktop,"java script, Tableau Desktop",4,Build a portfolio,Hybrid ,Data quality is inconsistent
+SR0159,Data Analyst,Education,8,Several years in analytics; currently using JS.,Javascript,None yet,1,Move into data science,Remote,Getting access to the right data
+SR0160,Data Scientist,Manufacturing,7,Experience: 7 yrs,R language,Pythn; learning dbt,4,Automate reporting,Remote,Explaining results to non-technical stakeholders
+SR0161,Data Analyst,Government,8,8+ years in analytics,r,"Power BI Desktop, R",5,Learn cloud data tools,Not sure,Data quality is inconsistent
+SR0162,BI Analyst,Finance,8,I started recently and am still learning java script.,java script,"Apache Spark, JavaScript",2,Build a portfolio,remote,Explaining results to non-technical stakeholders
+SR0163,Reporting Analyst,Other,12,Less than a year of experience.,SQl,Mostly sql and Excel,1,Learn machine learning,remote,Turning analysis into business action
+SR0164,Reporting Analyst,Healthcare,10,About 10 yrs in the field — still learning,PowerBI,Structured Query Language; learning dbt,4,Automate reporting,Hybrid,Getting clean data from different systems
+SR0165,Business Analyst,Finance,,Experience: 3 yrs,SQl,"r, SQl",5,Learn machine learning,Hybrid,Getting clean data from different systems
+SR0166,Data Analyst,Manufacturing,6,6 years in analytics; mostly java script.,JS,"S.Q.L., SQL",3,Automate reporting,Hybrid ,Getting access to the right data
+SR0167,Business Analyst,Technology,1,A few years working with data and Excel.,Excel,Mostly Microsoft Excel and Excel,5,Improve data storytelling,remote,Too many manual reports
+SR0168,Reporting Analyst,Healthcare,,1+ years in analytics,java script,None yet,5,Build a portfolio,remote,Data quality is inconsistent
+SR0169,BI Analyst,Retail,15,"Ten years in analytics, mainly Excel.",excel,"Microsoft Excel, excel",2,Build a portfolio,remote,None at the moment
+SR0170,Data Analyst,Government,1,I've worked in analytics for 1 years.,java script,JavaScript; learning dbt,5,Learn cloud data tools,On-site,Data quality is inconsistent
+SR0171,Operations Analyst,Manufacturing,10,About 10 yrs in the field,Power BI Desktop,Mostly PowerBI and Excel,1,Improve SQL skills,Not sure,None at the moment
+SR0172,Reporting Analyst,Other,5,"Ten years in analytics, mainly Python 3.",Python 3,"Tabluea, Tabluea",2,Improve stakeholder communication,Hybrid,None at the moment
+SR0173,Reporting Analyst,Healthcare,10,I've been an analyst for 10 years,Microsoft Excel,"Spark, pyspark",4,Learn machine learning,Remote,None at the moment
+SR0174,Operations Analyst,Other,6,6+ years in analytics — still learning,JavaScript,None yet,5,Learn machine learning,Hybrid,Too many manual reports
+SR0175,Reporting Analyst,Finance,6,6 years' experience,PYTHON,None yet,3,Move into data science,Hybrid,Getting access to the right data
+SR0176,Data Scientist,Technology,7,About 7 yrs in the field,SQL,JavaScript / SQL,2,Build a portfolio,Remote,None at the moment
+SR0177,Operations Analyst,Education,12,A few years working with data and Excel.!!,excel,None yet,5,Move into data science,Remote,Explaining results to non-technical stakeholders
+SR0178,Data Scientist,Other,,I started recently and am still learning PowerBI.,Power BI Desktop,"Sequel, Power BI",5,Move into data science,On-site,Turning analysis into business action
+SR0179,Operations Analyst,Government,4,Experience: 4 yrs,powerbi,Excel / powerbi,4,Move into analytics management,Not sure,None at the moment
+SR0180,Analytics Engineer,Government,1,I've worked in analytics for 1 years.,Power BI Desktop,None yet,1,Move into analytics management,Remote,Data quality is inconsistent
+SR0181,Operations Analyst,Education,,I started recently and am still learning Apache Spark. (self-taught),Apache Spark,"Tableau Desktop, Apache Spark",4,Build a portfolio,remote,Explaining results to non-technical stakeholders
+SR0182,Operations Analyst,Education,2,I've been an analyst for 2 years,Excel,"Power BI Desktop, Microsoft Excel",5,Move into data science,Remote,Getting clean data from different systems
+SR0183,Reporting Analyst,Retail,,5 years' experience 😊,tableau,"Structured Query Language, Sequel",4,Automate reporting,remote,Learning new tools while working full-time
+SR0184,Business Analyst,Manufacturing,,I've been an analyst for 7 years — still learning,Python,"R programming, R programming",4,Move into data science,Hybrid,Getting clean data from different systems
+SR0185,Analytics Engineer,Technology,0,Experience: 0 yrs!!,JavaScript,"excel, JS",5,Learn cloud data tools,remote,Getting access to the right data
+SR0186,Analytics Engineer,Technology,4,A few years working with data and PySpark.,Spark,py; learning dbt,4,Move into data science,remote,Getting clean data from different systems
+SR0187,Data Scientist,Manufacturing,8,Less than a year of experience.,Power-BI,"tableau, tableau",4,Learn machine learning,Remote,Getting access to the right data
+SR0188,Business Analyst,Manufacturing,2,Working in data for 2y,JavaScript,None yet,4,Learn machine learning,Hybrid,Getting clean data from different systems
+SR0189,Data Analyst,,1,I've worked in analytics for 1 years.,Sequel,Mostly Sequel and Excel,4,Learn cloud data tools,On-site,Data quality is inconsistent
+SR0190,Data Scientist,Finance,,Experience: 2 yrs,Spark,R programming; learning dbt,4,Automate reporting,remote,None at the moment
+SR0191,Operations Analyst,Finance,7,I've worked in analytics for 7 years.,PBI,python / Power BI,2,Automate reporting,Hybrid ,Turning analysis into business action
+SR0192,BI Analyst,Government,,Around 12 year(s) in data,Tableu,"SQl, Sequel",4,Automate reporting,remote,None at the moment
+SR0193,Business Analyst,Finance,1,Working in data for 1y,Spark,"PowerBI, Apache Spark",4,Improve data storytelling,On-site,Getting access to the right data
+SR0194,Business Analyst,Healthcare,7,7+ years in analytics,JavaScript,"JavaScript, java script",4,Improve stakeholder communication,Not sure,None at the moment
+SR0195,Analytics Engineer,Retail,,Less than a year of experience. 😊,java script,java script / JavaScript,2,Learn machine learning,On-site,Getting access to the right data
+SR0196,BI Analyst,Manufacturing,6,I've worked in analytics for 6 years.,tableau,JavaScript / Tableau,5,Automate reporting,Not sure,Data quality is inconsistent
+SR0197,Data Scientist,Retail,8,Around 8 year(s) in data,sql,"python, py",5,Learn machine learning,On-site,Explaining results to non-technical stakeholders
+SR0198,Data Analyst,Education,,1 years in analytics; mostly tableau.,Tabluea,"JavaScript, Tableau",2,Move into analytics management,remote,Data quality is inconsistent
+SR0199,Operations Analyst,Finance,,About 7 yrs in the field,JavaScript,None yet,5,Learn machine learning,Hybrid ,Too many manual reports
+SR0200,Data Analyst,Finance,1,Working in data for 1y,Pythn,PYTHON; learning dbt,4,Move into analytics management,On-site,None at the moment
+SR0201,Junior Data Analyst,Healthcare,5,5+ years in analytics (self-taught),Excel,Python; learning dbt,4,Move into data science,On-site,Learning new tools while working full-time
+SR0202,Data Scientist,Finance,12,Working in data for 12y,r,R / R programming,3,Automate reporting,Remote,None at the moment
+SR0203,Data Analyst,Technology,,I've been an analyst for 15 years,Tableau Desktop,"SQl, tableau",4,Learn cloud data tools,Not sure,Turning analysis into business action
+SR0204,Data Analyst,Government,,Working in data for 1y,r,None yet,1,Build a portfolio,Not sure,None at the moment
+SR0205,Reporting Analyst,Healthcare,12,12 years' experience,Spark,PBI; learning dbt,3,Learn machine learning,Remote,None at the moment
+SR0206,Business Analyst,Government,6,Experience: 6 yrs,R programming,"Pyhton, Python",5,Learn cloud data tools,On-site,Learning new tools while working full-time
+SR0207,Operations Analyst,Government,0,I started recently and am still learning sql.,sql,tableau / SQL,5,Learn cloud data tools,remote,Getting access to the right data
+SR0208,BI Analyst,Other,,3 years in analytics; mostly java script.,JavaScript,"Microsoft Excel, Excell",5,Move into data science,On-site,Getting access to the right data
+SR0209,Analytics Engineer,Finance,7,A few years working with data and Power BI Desktop.,Power-BI,JavaScript; learning dbt,4,Improve data storytelling,On-site,None at the moment
+SR0210,Reporting Analyst,Manufacturing,0,0 years in analytics; mostly Apache Spark.,PySpark,sql; learning dbt,4,Improve stakeholder communication,Hybrid,None at the moment
+SR0211,Data Scientist,Other,,About 10 yrs in the field,PySpark,JavaScript / Spark,5,Improve data storytelling,Remote,Getting access to the right data
+SR0212,Data Scientist,Other,5,Around 5 year(s) in data,Microsoft Excel,None yet,4,Improve data storytelling,Hybrid ,Too many manual reports
+SR0213,Operations Analyst,Education,3,"Ten years in analytics, mainly Power BI Desktop.",Power-BI,Mostly Power-BI and Excel,4,Learn machine learning,Hybrid,Data quality is inconsistent
+SR0214,Data Analyst,Education,10,10+ years in analytics,Pyhton,"SQl, SQL",3,Learn machine learning,Hybrid ,Getting clean data from different systems
+SR0215,Business Analyst,Healthcare,,I've worked in analytics for 1 years.!!,JS,java script / JS,5,Learn machine learning,On-site,Getting access to the right data
+SR0216,Data Analyst,Other,10,A few years working with data and java script.,JS,"Microsoft Excel, excel",5,Improve SQL skills,remote,Turning analysis into business action
+SR0217,Data Scientist,Other,,About 2 yrs in the field,SQL,"py, Pythn",4,Move into data science,Not sure,None at the moment
+SR0218,Business Analyst,Other,12,Working in data for 12y,java script,Mostly JavaScript and Excel,5,Improve data storytelling,Remote,Learning new tools while working full-time
+SR0219,Reporting Analyst,Manufacturing,3,I've been an analyst for 3 years,Power BI Desktop,Mostly PBI and Excel,2,Improve stakeholder communication,remote,Data quality is inconsistent
+SR0220,Business Analyst,Healthcare,,Experience: 12 yrs,JavaScript,JavaScript; learning dbt,3,Move into analytics management,Hybrid ,Explaining results to non-technical stakeholders
+SR0221,BI Analyst,Retail,2,About 2 yrs in the field,R language,None yet,2,Learn cloud data tools,Hybrid,Too many manual reports
+SR0222,Data Analyst,Education,,Several years in analytics; currently using Tableau Desktop.,tableau,Mostly Tableau and Excel,4,Automate reporting,Not sure,Getting clean data from different systems
+SR0223,Business Analyst,Government,2,A few years working with data and R language.,R language,"pyspark, Spark",4,Move into data science,Remote,Learning new tools while working full-time
+SR0224,BI Analyst,Retail,,Working in data for 0y,Tabluea,"Structured Query Language, SQl",1,Build a portfolio,Hybrid ,Getting clean data from different systems
+SR0225,Business Analyst,Retail,,1+ years in analytics (self-taught),Apache Spark,Excell / PySpark,5,Learn machine learning,Remote,Learning new tools while working full-time
+SR0226,Reporting Analyst,Manufacturing,4,I've worked in analytics for 4 years.,Tableau Desktop,PowerBI; learning dbt,3,Improve stakeholder communication,Remote,Data quality is inconsistent
+SR0227,Business Analyst,Other,6,6+ years in analytics 😊,pyspark,excel / Spark,4,Improve data storytelling,Not sure,Learning new tools while working full-time
+SR0228,Operations Analyst,Finance,3,Experience: 3 yrs,PBI,Microsoft Excel / powerbi,2,Move into data science,Remote,Getting access to the right data
+SR0229,Data Scientist,Finance,0,0+ years in analytics,SQl,"PySpark, Structured Query Language",4,Move into data science,On-site,Explaining results to non-technical stakeholders
+SR0230,BI Analyst,Education,12,Around 12 year(s) in data,pyspark,None yet,4,Improve stakeholder communication,remote,Learning new tools while working full-time
+SR0231,Data Scientist,Healthcare,12,Several years in analytics; currently using Power BI Desktop.,powerbi,"R, R",3,Move into analytics management,Hybrid,Explaining results to non-technical stakeholders
+SR0232,Business Analyst,Healthcare,7,7 years in analytics; mostly r.,r,JS / R programming,1,Improve SQL skills,remote,Learning new tools while working full-time
+SR0233,Data Scientist,Government,1,I've been an analyst for 1 years,Power-BI,Power-BI / PowerBI,3,Automate reporting,Remote,Learning new tools while working full-time
+SR0234,Analytics Engineer,Technology,,I've been an analyst for 4 years,R language,"R language, R",4,Improve SQL skills,On-site,Learning new tools while working full-time
+SR0235,BI Analyst,Government,7,Working in data for 7y,R programming,Spark / R,4,Learn machine learning,Not sure,Getting access to the right data
+SR0236,Data Analyst,Manufacturing,,Working in data for 2y!!,Python,Mostly Pythn and Excel,5,Build a portfolio,remote,Data quality is inconsistent
+SR0237,Junior Data Analyst,Manufacturing,8,8+ years in analytics,r,"Excell, R language",3,Automate reporting,On-site,Turning analysis into business action
+SR0238,Reporting Analyst,Healthcare,0,I've been an analyst for 0 years,tableau,None yet,5,Move into data science,Hybrid,Getting access to the right data
+SR0239,Data Analyst,Technology,3,Around 3 year(s) in data,Pythn,S.Q.L. / Python,2,Learn machine learning,Hybrid ,Turning analysis into business action
+SR0240,Operations Analyst,Finance,2,Experience: 2 yrs,R,None yet,2,Automate reporting,remote,Getting clean data from different systems
+SR0241,Business Analyst,Finance,,I've worked in analytics for 2 years.,powerbi,"PySpark, Apache Spark",5,Improve data storytelling,On-site,Turning analysis into business action
+SR0242,Business Analyst,Education,1,Several years in analytics; currently using PBI.,powerbi,None yet,4,Move into data science,On-site,Too many manual reports
+SR0243,Data Analyst,Other,,A few years working with data and excel.,Excell,"Spark, PySpark",3,Learn machine learning,On-site,Getting clean data from different systems
+SR0244,Reporting Analyst,Retail,10,10+ years in analytics 😊,Spark,None yet,4,Learn machine learning,Hybrid ,Turning analysis into business action
+SR0245,Business Analyst,Finance,,About 1 yrs in the field,R language,Mostly r and Excel,3,,Hybrid ,Turning analysis into business action
+SR0246,Operations Analyst,Other,4,Working in data for 4y,Power BI Desktop,Mostly powerbi and Excel,2,Improve stakeholder communication,Hybrid ,Turning analysis into business action
+SR0247,Data Scientist,Government,,Working in data for 5y,JavaScript,"SQl, java script",3,Improve data storytelling,Remote,Getting access to the right data
+SR0248,BI Analyst,Healthcare,7,Working in data for 7y,MS Excel,Apache Spark; learning dbt,1,Learn machine learning,Hybrid,Too many manual reports
+SR0249,Data Scientist,Healthcare,3,3 years' experience,R programming,None yet,2,Improve stakeholder communication,Hybrid,Too many manual reports
+SR0250,Business Analyst,Healthcare,5,5 years' experience,Tableu,"Apache Spark, tableau",3,Improve SQL skills,Remote,Learning new tools while working full-time
+SR0251,BI Analyst,Healthcare,3,A few years working with data and PySpark.,pyspark,None yet,2,Improve SQL skills,On-site,Data quality is inconsistent
+SR0252,Business Analyst,Finance,8,"Ten years in analytics, mainly PowerBI.",Power BI Desktop,"Excell, Power BI",4,Learn machine learning,Hybrid ,Getting access to the right data
+SR0253,Business Analyst,Manufacturing,2,Around 2 year(s) in data,Excell,None yet,3,Automate reporting,remote,Getting access to the right data
+SR0254,Business Analyst,Finance,15,Experience: 15 yrs,r,Apache Spark / r,1,Learn cloud data tools,On-site,Data quality is inconsistent
+SR0255,Junior Data Analyst,Manufacturing,2,I've worked in analytics for 2 years.,Spark,"python, PySpark",5,Move into analytics management,remote,None at the moment
+SR0256,Data Scientist,Education,,I started recently and am still learning Pyhton.,Pythn,"pyspark, PySpark",4,Automate reporting,Hybrid,Getting clean data from different systems
+SR0257,Analytics Engineer,Finance,0,0 years in analytics; mostly R programming.!!,R programming,Mostly R programming and Excel,4,Automate reporting,Remote,Explaining results to non-technical stakeholders
+SR0258,Business Analyst,Manufacturing,8,"Ten years in analytics, mainly powerbi.",powerbi,None yet,2,Improve stakeholder communication,Hybrid ,None at the moment
+SR0259,Junior Data Analyst,Retail,,Working in data for 7y,PySpark,None yet,1,Improve SQL skills,On-site,Learning new tools while working full-time
+SR0260,BI Analyst,Government,8,Experience: 8 yrs,Pythn,"Spark, pyspark",5,Improve SQL skills,Hybrid ,Getting clean data from different systems
+SR0261,Junior Data Analyst,Education,,3 years in analytics; mostly Power BI Desktop. — still learning,Power BI,Mostly PowerBI and Excel,4,Learn cloud data tools,Hybrid ,Data quality is inconsistent
+SR0262,Data Scientist,Government,2,Working in data for 2y,Power-BI,Power BI / powerbi,5,Learn machine learning,remote,Explaining results to non-technical stakeholders
+SR0263,Data Analyst,Other,0,0 years' experience,Tableau,Mostly Tableau and Excel,5,Automate reporting,On-site,Too many manual reports
+SR0264,Data Analyst,Technology,4,4 years' experience — still learning,Microsoft Excel,"Excell, Microsoft Excel",2,Move into data science,Hybrid,Getting access to the right data
+SR0265,Analytics Engineer,Manufacturing,1,About 1 yrs in the field,Python 3,r / Python 3,4,Improve data storytelling,Hybrid ,Too many manual reports
+SR0266,Data Scientist,Government,3,A few years working with data and R programming.,R,"Excell, MS Excel",4,Learn machine learning,Remote,Learning new tools while working full-time
+SR0267,Data Analyst,Finance,4,About 4 yrs in the field,SQl,R; learning dbt,5,Improve SQL skills,Remote,Data quality is inconsistent
+SR0268,Reporting Analyst,Retail,3,Experience: 3 yrs,pyspark,"powerbi, pyspark",2,Build a portfolio,Not sure,Getting access to the right data
+SR0269,Business Analyst,Technology,5,"Ten years in analytics, mainly Excell.",Microsoft Excel,"Python, Pythn",5,Improve SQL skills,Not sure,Getting access to the right data
+SR0270,Data Scientist,Education,,Working in data for 2y,Python,"java script, python",4,Improve stakeholder communication,Not sure,Turning analysis into business action
+SR0271,Junior Data Analyst,Manufacturing,,I started recently and am still learning Tableau.,Tabluea,Mostly tableau and Excel,5,Improve SQL skills,Not sure,Data quality is inconsistent
+SR0272,Business Analyst,Government,1,Around 1 year(s) in data,pyspark,R language; learning dbt,4,Move into analytics management,Hybrid,Data quality is inconsistent
+SR0273,Operations Analyst,Healthcare,15,Around 15 year(s) in data,Microsoft Excel,"excel, Excel",3,Learn machine learning,Remote,Too many manual reports
+SR0274,Operations Analyst,Retail,6,Less than a year of experience.,S.Q.L.,None yet,4,Move into analytics management,Not sure,Getting clean data from different systems
+SR0275,Reporting Analyst,Government,7,7 years' experience,Excell,JavaScript; learning dbt,4,Improve SQL skills,Not sure,Data quality is inconsistent
+SR0276,Operations Analyst,Technology,,"Ten years in analytics, mainly Tableau. — still learning",Tabluea,MS Excel; learning dbt,4,Learn machine learning,Hybrid ,None at the moment
+SR0277,Junior Data Analyst,Education,,About 1 yrs in the field,Tableau Desktop,Mostly Tableau Desktop and Excel,3,Improve stakeholder communication,Hybrid,Getting access to the right data
+SR0278,Reporting Analyst,Retail,6,I started recently and am still learning R programming.,r,"PBI, PBI",4,Move into analytics management,On-site,Getting access to the right data
+SR0279,Analytics Engineer,Healthcare,0,I've worked in analytics for 0 years.,python,None yet,4,Improve stakeholder communication,Hybrid,Getting access to the right data
+SR0280,Reporting Analyst,Other,5,5+ years in analytics,Power BI Desktop,JavaScript; learning dbt,3,Improve data storytelling,Remote,Explaining results to non-technical stakeholders
+SR0281,Data Analyst,Retail,2,2 years' experience,S.Q.L.,Mostly Structured Query Language and Excel,5,Build a portfolio,remote,Getting access to the right data
+SR0282,Business Analyst,Technology,0,I've been an analyst for 0 years,JavaScript,S.Q.L.; learning dbt,4,Build a portfolio,Hybrid ,Getting clean data from different systems
+SR0283,Data Analyst,Other,12,Several years in analytics; currently using Pythn. (self-taught),Pyhton,Python 3 / py,5,Move into analytics management,Hybrid,Too many manual reports
+SR0284,Analytics Engineer,Manufacturing,,12+ years in analytics,PYTHON,Mostly Python and Excel,1,Learn cloud data tools,Not sure,Turning analysis into business action
+SR0285,Data Scientist,Government,3,Around 3 year(s) in data,PBI,Power-BI / PowerBI,3,Automate reporting,remote,None at the moment
+SR0286,Reporting Analyst,Other,15,"Ten years in analytics, mainly pyspark.!!",Apache Spark,pyspark / pyspark,3,Build a portfolio,Hybrid,Turning analysis into business action
+SR0287,Analytics Engineer,Retail,10,I started recently and am still learning Power BI Desktop.,Power-BI,Mostly PowerBI and Excel,1,Improve stakeholder communication,Not sure,Turning analysis into business action
+SR0288,Analytics Engineer,Manufacturing,3,I've been an analyst for 3 years,Tableu,Power BI / Tableau Desktop,4,Build a portfolio,Hybrid,Getting clean data from different systems
+SR0289,BI Analyst,Retail,,Experience: 1 yrs,JavaScript,"pyspark, Javascript",5,Improve data storytelling,On-site,Turning analysis into business action
+SR0290,Junior Data Analyst,Education,,Working in data for 1y,PowerBI,PowerBI / Power-BI,3,Improve stakeholder communication,Not sure,Turning analysis into business action
+SR0291,Data Scientist,Finance,15,I've been an analyst for 15 years — still learning,java script,Mostly JS and Excel,4,Build a portfolio,On-site,Turning analysis into business action
+SR0292,Operations Analyst,Finance,10,A few years working with data and S.Q.L..,SQl,Power BI; learning dbt,5,Learn machine learning,Not sure,Turning analysis into business action
+SR0293,Business Analyst,Education,8,I started recently and am still learning powerbi.,Power BI,Mostly Power-BI and Excel,5,Build a portfolio,On-site,Too many manual reports
+SR0294,Data Scientist,Retail,12,About 12 yrs in the field,Apache Spark,"JavaScript, java script",2,Automate reporting,On-site,Data quality is inconsistent
+SR0295,Reporting Analyst,Retail,7,Experience: 7 yrs!!,Apache Spark,"java script, Spark",2,Move into analytics management,Remote,Getting access to the right data
+SR0296,Data Analyst,Technology,15,15 years' experience,R,PYTHON / R programming,3,Move into data science,On-site,None at the moment
+SR0297,Reporting Analyst,Manufacturing,15,15+ years in analytics,Python 3,"Spark, Pyhton",1,Learn machine learning,Hybrid,None at the moment
+SR0298,Operations Analyst,Education,0,Several years in analytics; currently using tableau.,Tabluea,powerbi; learning dbt,4,Improve stakeholder communication,Not sure,Getting access to the right data
+SR0299,Junior Data Analyst,Healthcare,4,4 years' experience,Python 3,Mostly Python 3 and Excel,4,Learn machine learning,Remote,Getting clean data from different systems
+SR0300,Business Analyst,Manufacturing,,I started recently and am still learning R language.,R language,None yet,5,Improve data storytelling,Remote,Turning analysis into business action

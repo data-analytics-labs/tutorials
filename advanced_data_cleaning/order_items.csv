@@ -1,0 +1,775 @@
+order_id,order_date,customer_id,customer_name,line_number,product,category,quantity,unit_price,line_total,shipping_cost,order_total
+50001,2026-07-17,1046,Isabella Brown,1,Noise-Cancelling Headphones,Electronics,1,149.99,149.99,7.99,252.96
+50001,2026-07-17,1046,Isabella Brown,2,Laptop Stand,Accessories,1,39.99,39.99,7.99,252.96
+50001,2026-07-17,1046,Isabella Brown,3,USB-C Hub,Electronics,1,54.99,54.99,7.99,252.96
+50002,2026-05-28,1050,Henry Lewis,1,USB-C Hub,Electronics,1,54.99,54.99,12.99,67.98
+50003,2026-09-12,1056,Elijah Hall,1,Ergonomic Chair,Home Office,1,229.99,229.99,12.99,242.98
+50004,2026-03-12,1057,Noah Smith,1,Webcam,Electronics,1,69.99,69.99,7.99,282.96
+50004,2026-03-12,1057,Noah Smith,2,Noise-Cancelling Headphones,Electronics,1,149.99,149.99,7.99,282.96
+50004,2026-03-12,1057,Noah Smith,3,USB-C Hub,Electronics,1,54.99,54.99,7.99,282.96
+50005,2026-04-01,1006,Liam Wright,1,USB-C Hub,Electronics,1,54.99,54.99,0.0,54.99
+50006,2026-04-04,1038,Lucas Johnson,1,Laptop Stand,Accessories,1,39.99,39.99,4.99,44.98
+50007,2026-06-13,1024,Henry King,1,Laptop Stand,Accessories,1,39.99,39.99,12.99,327.95
+50007,2026-06-13,1024,Henry King,2,USB-C Hub,Electronics,1,54.99,54.99,12.99,327.95
+50007,2026-06-13,1024,Henry King,3,Noise-Cancelling Headphones,Electronics,1,149.99,149.99,12.99,327.95
+50007,2026-06-13,1024,Henry King,4,Webcam,Electronics,1,69.99,69.99,12.99,327.95
+50008,2026-02-04,1013,Ella Johnson,1,Ergonomic Chair,Home Office,1,229.99,229.99,0.0,564.94
+50008,2026-02-04,1013,Ella Johnson,2,Wireless Mouse,Accessories,1,24.99,24.99,0.0,564.94
+50008,2026-02-04,1013,Ella Johnson,3,Laptop Stand,Accessories,1,39.99,39.99,0.0,564.94
+50008,2026-02-04,1013,Ella Johnson,4,Mechanical Keyboard,Accessories,3,89.99,269.97,0.0,564.94
+50009,2026-01-14,1040,Evelyn Lopez,1,USB-C Hub,Electronics,1,54.99,54.99,12.99,67.98
+50010,2026-06-27,1017,Amelia Smith,1,Ergonomic Chair,Home Office,2,229.99,459.98,0.0,579.95
+50010,2026-06-27,1017,Amelia Smith,2,Laptop Stand,Accessories,3,39.99,119.97,0.0,579.95
+50011,2026-09-03,1030,Liam Lewis,1,Wireless Mouse,Accessories,2,24.99,49.98,0.0,509.96
+50011,2026-09-03,1030,Liam Lewis,2,Ergonomic Chair,Home Office,2,229.99,459.98,0.0,509.96
+50012,2026-03-24,1031,Sophia Lopez,1,USB-C Hub,Electronics,1,54.99,54.99,7.99,132.97
+50012,2026-03-24,1031,Sophia Lopez,2,Webcam,Electronics,1,69.99,69.99,7.99,132.97
+50013,2026-09-28,1002,Amelia Walker,1,Wireless Mouse,Accessories,1,24.99,24.99,7.99,32.98
+50014,2026-03-27,1059,Ella Walker,1,USB-C Hub,Electronics,1,54.99,54.99,7.99,62.98
+50015,2026-04-10,1040,Evelyn Lopez,1,Desk Lamp,Home Office,1,34.99,34.99,4.99,214.96
+50015,2026-04-10,1040,Evelyn Lopez,2,Noise-Cancelling Headphones,Electronics,1,149.99,149.99,4.99,214.96
+50015,2026-04-10,1040,Evelyn Lopez,3,Wireless Mouse,Accessories,1,24.99,24.99,4.99,214.96
+50016,2026-05-24,1002,Amelia Walker,1,USB-C Hub,Electronics,1,54.99,54.99,7.99,512.95
+50016,2026-05-24,1002,Amelia Walker,2,Noise-Cancelling Headphones,Electronics,3,149.99,449.97,7.99,512.95
+50017,2026-07-06,1023,Ella Miller,1,Wireless Mouse,Accessories,1,24.99,24.99,4.99,29.98
+50018,2026-04-15,1022,Henry Johnson,1,Laptop Stand,Accessories,2,39.99,79.98,7.99,142.96
+50018,2026-04-15,1022,Henry Johnson,2,USB-C Hub,Electronics,1,54.99,54.99,7.99,142.96
+50019,2026-03-03,1043,Jack Johnson,1,USB-C Hub,Electronics,2,54.99,109.98,12.99,402.94
+50019,2026-03-03,1043,Jack Johnson,2,Ergonomic Chair,Home Office,1,229.99,229.99,12.99,402.94
+50019,2026-03-03,1043,Jack Johnson,3,Wireless Mouse,Accessories,2,24.99,49.98,12.99,402.94
+50020,2026-07-22,1047,Elijah Martinez,1,Wireless Mouse,Accessories,1,24.99,24.99,4.99,179.97
+50020,2026-07-22,1047,Elijah Martinez,2,Noise-Cancelling Headphones,Electronics,1,149.99,149.99,4.99,179.97
+50021,2026-08-27,1010,Noah Garcia,1,Mechanical Keyboard,Accessories,1,89.99,89.99,12.99,207.96
+50021,2026-08-27,1010,Noah Garcia,2,Webcam,Electronics,1,69.99,69.99,12.99,207.96
+50021,2026-08-27,1010,Noah Garcia,3,Desk Lamp,Home Office,1,34.99,34.99,12.99,207.96
+50022,2026-01-11,1009,James Martinez,1,Wireless Mouse,Accessories,1,24.99,24.99,4.99,29.98
+50023,2026-04-10,1056,Elijah Hall,1,USB-C Hub,Electronics,1,54.99,54.99,4.99,189.96
+50023,2026-04-10,1056,Elijah Hall,2,Laptop Stand,Accessories,1,39.99,39.99,4.99,189.96
+50023,2026-04-10,1056,Elijah Hall,3,Mechanical Keyboard,Accessories,1,89.99,89.99,4.99,189.96
+50024,2026-08-03,1017,Amelia Smith,1,Laptop Stand,Accessories,1,39.99,39.99,12.99,442.95
+50024,2026-08-03,1017,Amelia Smith,2,Noise-Cancelling Headphones,Electronics,2,149.99,299.98,12.99,442.95
+50024,2026-08-03,1017,Amelia Smith,3,Mechanical Keyboard,Accessories,1,89.99,89.99,12.99,442.95
+50025,2026-09-14,1053,Elijah Lewis,1,Mechanical Keyboard,Accessories,2,89.99,179.98,0.0,179.98
+50026,2026-04-04,1050,Henry Lewis,1,Mechanical Keyboard,Accessories,1,89.99,89.99,4.99,144.96
+50026,2026-04-04,1050,Henry Lewis,2,Wireless Mouse,Accessories,2,24.99,49.98,4.99,144.96
+50027,2026-02-01,1036,Ethan Garcia,1,Ergonomic Chair,Home Office,2,229.99,459.98,0.0,459.98
+50028,2026-05-08,1004,Henry Johnson,1,Laptop Stand,Accessories,1,39.99,39.99,0.0,39.99
+50029,2026-01-15,1036,Ethan Garcia,1,Wireless Mouse,Accessories,1,24.99,24.99,4.99,174.96
+50029,2026-01-15,1036,Ethan Garcia,2,USB-C Hub,Electronics,1,54.99,54.99,4.99,174.96
+50029,2026-01-15,1036,Ethan Garcia,3,Mechanical Keyboard,Accessories,1,89.99,89.99,4.99,174.96
+50030,2026-09-17,1031,Sophia Lopez,1,Webcam,Electronics,1,69.99,69.99,4.99,384.95
+50030,2026-09-17,1031,Sophia Lopez,2,Ergonomic Chair,Home Office,1,229.99,229.99,4.99,384.95
+50030,2026-09-17,1031,Sophia Lopez,3,Wireless Mouse,Accessories,1,24.99,24.99,4.99,384.95
+50030,2026-09-17,1031,Sophia Lopez,4,USB-C Hub,Electronics,1,54.99,54.99,4.99,384.95
+50031,2026-02-07,1028,Emma Clark,1,Webcam,Electronics,2,69.99,139.98,0.0,139.98
+50032,2026-07-07,1010,Noah Garcia,1,Mechanical Keyboard,Accessories,1,89.99,89.99,12.99,102.98
+50033,2026-07-23,1007,Evelyn Garcia,1,Mechanical Keyboard,Accessories,2,89.99,179.98,4.99,659.93
+50033,2026-07-23,1007,Evelyn Garcia,2,Noise-Cancelling Headphones,Electronics,3,149.99,449.97,4.99,659.93
+50033,2026-07-23,1007,Evelyn Garcia,3,Wireless Mouse,Accessories,1,24.99,24.99,4.99,659.93
+50034,2026-04-11,1027,Sophia Davis,1,Wireless Mouse,Accessories,1,24.99,24.99,7.99,32.98
+50035,2026-08-23,1036,Ethan Garcia,1,Laptop Stand,Accessories,1,39.99,39.99,7.99,102.97
+50035,2026-08-23,1036,Ethan Garcia,2,USB-C Hub,Electronics,1,54.99,54.99,7.99,102.97
+50036,2026-02-27,1005,Logan Lewis,1,USB-C Hub,Electronics,1,54.99,54.99,7.99,267.94
+50036,2026-02-27,1005,Logan Lewis,2,Laptop Stand,Accessories,2,39.99,79.98,7.99,267.94
+50036,2026-02-27,1005,Logan Lewis,3,Desk Lamp,Home Office,1,34.99,34.99,7.99,267.94
+50036,2026-02-27,1005,Logan Lewis,4,Mechanical Keyboard,Accessories,1,89.99,89.99,7.99,267.94
+50037,2026-05-13,1028,Emma Clark,1,Ergonomic Chair,Home Office,1,229.99,229.99,7.99,387.97
+50037,2026-05-13,1028,Emma Clark,2,Noise-Cancelling Headphones,Electronics,1,149.99,149.99,7.99,387.97
+50038,2026-04-04,1045,James Brown,1,Wireless Mouse,Accessories,1,24.99,24.99,0.0,204.97
+50038,2026-04-04,1045,James Brown,2,Mechanical Keyboard,Accessories,2,89.99,179.98,0.0,204.97
+50039,2026-04-24,1006,Liam Wright,1,Wireless Mouse,Accessories,1,24.99,24.99,12.99,37.98
+50040,2026-08-02,1036,Ethan Garcia,1,Webcam,Electronics,1,69.99,69.99,0.0,324.97
+50040,2026-08-02,1036,Ethan Garcia,2,Ergonomic Chair,Home Office,1,229.99,229.99,0.0,324.97
+50040,2026-08-02,1036,Ethan Garcia,3,Wireless Mouse,Accessories,1,24.99,24.99,0.0,324.97
+50041,2026-05-15,1011,Noah Clark,1,USB-C Hub,Electronics,1,54.99,54.99,7.99,62.98
+50042,2026-04-16,1034,Ella Wright,1,Mechanical Keyboard,Accessories,1,89.99,89.99,7.99,97.98
+50043,2026-05-09,1002,Amelia Walker,1,Laptop Stand,Accessories,1,39.99,39.99,4.99,44.98
+50044,2026-08-17,1016,Ella Lewis,1,Desk Lamp,Home Office,1,34.99,34.99,12.99,47.98
+50045,2026-07-21,1057,Noah Smith,1,Webcam,Electronics,1,69.99,69.99,7.99,462.93
+50045,2026-07-21,1057,Noah Smith,2,Noise-Cancelling Headphones,Electronics,2,149.99,299.98,7.99,462.93
+50045,2026-07-21,1057,Noah Smith,3,Wireless Mouse,Accessories,2,24.99,49.98,7.99,462.93
+50045,2026-07-21,1057,Noah Smith,4,Desk Lamp,Home Office,1,34.99,34.99,7.99,462.93
+50046,2026-01-28,1023,Ella Miller,1,Laptop Stand,Accessories,1,39.99,39.99,7.99,427.96
+50046,2026-01-28,1023,Ella Miller,2,Ergonomic Chair,Home Office,1,229.99,229.99,7.99,427.96
+50046,2026-01-28,1023,Ella Miller,3,Noise-Cancelling Headphones,Electronics,1,149.99,149.99,7.99,427.96
+50047,2026-09-17,1025,Mason Johnson,1,Webcam,Electronics,1,69.99,69.99,4.99,304.97
+50047,2026-09-17,1025,Mason Johnson,2,Ergonomic Chair,Home Office,1,229.99,229.99,4.99,304.97
+50048,2026-03-22,1012,James Smith,1,Laptop Stand,Accessories,1,39.99,39.99,7.99,47.98
+50049,2026-06-15,1022,Henry Johnson,1,Webcam,Electronics,1,69.99,69.99,4.99,74.98
+50050,2026-06-21,1001,Isabella Brown,1,Ergonomic Chair,Home Office,1,229.99,229.99,7.99,237.98
+50051,2026-05-08,1013,Ella Johnson,1,Laptop Stand,Accessories,2,39.99,79.98,7.99,317.96
+50051,2026-05-08,1013,Ella Johnson,2,Ergonomic Chair,Home Office,1,229.99,229.99,7.99,317.96
+50052,2026-01-22,1038,Lucas Johnson,1,Webcam,Electronics,1,69.99,69.99,7.99,77.98
+50053,2026-09-28,1006,Liam Wright,1,Mechanical Keyboard,Accessories,2,89.99,179.98,12.99,527.94
+50053,2026-09-28,1006,Liam Wright,2,Noise-Cancelling Headphones,Electronics,2,149.99,299.98,12.99,527.94
+50053,2026-09-28,1006,Liam Wright,3,Desk Lamp,Home Office,1,34.99,34.99,12.99,527.94
+50054,2026-03-16,1019,Henry King,1,Desk Lamp,Home Office,2,34.99,69.98,4.99,74.97
+50055,2026-09-16,1049,Noah Young,1,Laptop Stand,Accessories,1,39.99,39.99,4.99,79.97
+50055,2026-09-16,1049,Noah Young,2,Desk Lamp,Home Office,1,34.99,34.99,4.99,79.97
+50056,2026-07-04,1041,Isabella Hall,1,Desk Lamp,Home Office,1,34.99,34.99,0.0,389.96
+50056,2026-07-04,1041,Isabella Hall,2,Ergonomic Chair,Home Office,1,229.99,229.99,0.0,389.96
+50056,2026-07-04,1041,Isabella Hall,3,USB-C Hub,Electronics,1,54.99,54.99,0.0,389.96
+50056,2026-07-04,1041,Isabella Hall,4,Webcam,Electronics,1,69.99,69.99,0.0,389.96
+50057,2026-08-22,1001,Isabella Brown,1,Wireless Mouse,Accessories,2,24.99,49.98,0.0,339.95
+50057,2026-08-22,1001,Isabella Brown,2,Noise-Cancelling Headphones,Electronics,1,149.99,149.99,0.0,339.95
+50057,2026-08-22,1001,Isabella Brown,3,Webcam,Electronics,2,69.99,139.98,0.0,339.95
+50058,2026-05-16,1055,Noah Miller,1,USB-C Hub,Electronics,2,54.99,109.98,4.99,114.97
+50059,2026-09-10,1030,Liam Lewis,1,Wireless Mouse,Accessories,2,24.99,49.98,7.99,262.95
+50059,2026-09-10,1030,Liam Lewis,2,USB-C Hub,Electronics,1,54.99,54.99,7.99,262.95
+50059,2026-09-10,1030,Liam Lewis,3,Noise-Cancelling Headphones,Electronics,1,149.99,149.99,7.99,262.95
+50060,2026-03-17,1005,Logan Lewis,1,Webcam,Electronics,1,69.99,69.99,4.99,74.98
+50061,2026-09-06,1004,Henry Johnson,1,Wireless Mouse,Accessories,1,24.99,24.99,4.99,29.98
+50062,2026-09-22,1019,Henry King,1,Ergonomic Chair,Home Office,2,229.99,459.98,12.99,472.97
+50063,2026-04-13,1058,Ethan Walker,1,Wireless Mouse,Accessories,1,24.99,24.99,12.99,37.98
+50064,2026-02-09,1030,Liam Lewis,1,Ergonomic Chair,Home Office,2,229.99,459.98,4.99,789.93
+50064,2026-02-09,1030,Liam Lewis,2,Mechanical Keyboard,Accessories,3,89.99,269.97,4.99,789.93
+50064,2026-02-09,1030,Liam Lewis,3,USB-C Hub,Electronics,1,54.99,54.99,4.99,789.93
+50065,2026-03-14,1006,Liam Wright,1,Webcam,Electronics,1,69.99,69.99,4.99,164.97
+50065,2026-03-14,1006,Liam Wright,2,Mechanical Keyboard,Accessories,1,89.99,89.99,4.99,164.97
+50066,2026-02-27,1018,Lucas Smith,1,USB-C Hub,Electronics,1,54.99,54.99,12.99,297.97
+50066,2026-02-27,1018,Lucas Smith,2,Ergonomic Chair,Home Office,1,229.99,229.99,12.99,297.97
+50067,2026-08-19,1032,Henry Martinez,1,Mechanical Keyboard,Accessories,1,89.99,89.99,7.99,152.97
+50067,2026-08-19,1032,Henry Martinez,2,USB-C Hub,Electronics,1,54.99,54.99,7.99,152.97
+50068,2026-01-01,1022,Henry Johnson,1,Noise-Cancelling Headphones,Electronics,1,149.99,149.99,12.99,162.98
+50069,2026-04-11,1060,Harper Miller,1,Webcam,Electronics,1,69.99,69.99,7.99,167.97
+50069,2026-04-11,1060,Harper Miller,2,Mechanical Keyboard,Accessories,1,89.99,89.99,7.99,167.97
+50070,2026-02-09,1056,Elijah Hall,1,Desk Lamp,Home Office,2,34.99,69.98,7.99,77.97
+50071,2026-02-22,1018,Lucas Smith,1,Webcam,Electronics,1,69.99,69.99,4.99,74.98
+50072,2026-08-12,1018,Lucas Smith,1,USB-C Hub,Electronics,2,54.99,109.98,7.99,152.96
+50072,2026-08-12,1018,Lucas Smith,2,Desk Lamp,Home Office,1,34.99,34.99,7.99,152.96
+50073,2026-07-24,1002,Amelia Walker,1,USB-C Hub,Electronics,3,54.99,164.97,0.0,354.95
+50073,2026-07-24,1002,Amelia Walker,2,Noise-Cancelling Headphones,Electronics,1,149.99,149.99,0.0,354.95
+50073,2026-07-24,1002,Amelia Walker,3,Laptop Stand,Accessories,1,39.99,39.99,0.0,354.95
+50074,2026-05-27,1009,James Martinez,1,Mechanical Keyboard,Accessories,1,89.99,89.99,12.99,127.97
+50074,2026-05-27,1009,James Martinez,2,Wireless Mouse,Accessories,1,24.99,24.99,12.99,127.97
+50075,2026-05-14,1017,Amelia Smith,1,USB-C Hub,Electronics,1,54.99,54.99,12.99,157.97
+50075,2026-05-14,1017,Amelia Smith,2,Mechanical Keyboard,Accessories,1,89.99,89.99,12.99,157.97
+50076,2026-03-24,1011,Noah Clark,1,Ergonomic Chair,Home Office,1,229.99,229.99,4.99,234.98
+50077,2026-08-19,1022,Henry Johnson,1,USB-C Hub,Electronics,1,54.99,54.99,0.0,79.98
+50077,2026-08-19,1022,Henry Johnson,2,Wireless Mouse,Accessories,1,24.99,24.99,0.0,79.98
+50078,2026-05-03,1021,James Brown,1,USB-C Hub,Electronics,2,54.99,109.98,0.0,109.98
+50079,2026-07-16,1027,Sophia Davis,1,USB-C Hub,Electronics,1,54.99,54.99,7.99,292.97
+50079,2026-07-16,1027,Sophia Davis,2,Ergonomic Chair,Home Office,1,229.99,229.99,7.99,292.97
+50080,2026-07-04,1018,Lucas Smith,1,USB-C Hub,Electronics,1,54.99,54.99,0.0,54.99
+50081,2026-07-16,1016,Ella Lewis,1,Ergonomic Chair,Home Office,3,229.99,689.97,12.99,702.96
+50082,2026-01-12,1055,Noah Miller,1,Desk Lamp,Home Office,3,34.99,104.97,12.99,117.96
+50083,2026-01-01,1032,Henry Martinez,1,Ergonomic Chair,Home Office,1,229.99,229.99,12.99,242.98
+50084,2026-04-25,1007,Evelyn Garcia,1,Wireless Mouse,Accessories,1,24.99,24.99,12.99,37.98
+50085,2026-01-21,1050,Henry Lewis,1,Mechanical Keyboard,Accessories,1,89.99,89.99,4.99,94.98
+50086,2026-06-05,1003,Liam Johnson,1,Webcam,Electronics,1,69.99,69.99,0.0,804.94
+50086,2026-06-05,1003,Liam Johnson,2,Ergonomic Chair,Home Office,1,229.99,229.99,0.0,804.94
+50086,2026-06-05,1003,Liam Johnson,3,Noise-Cancelling Headphones,Electronics,3,149.99,449.97,0.0,804.94
+50086,2026-06-05,1003,Liam Johnson,4,USB-C Hub,Electronics,1,54.99,54.99,0.0,804.94
+50087,2026-04-25,1017,Amelia Smith,1,Laptop Stand,Accessories,3,39.99,119.97,7.99,427.94
+50087,2026-04-25,1017,Amelia Smith,2,Ergonomic Chair,Home Office,1,229.99,229.99,7.99,427.94
+50087,2026-04-25,1017,Amelia Smith,3,Webcam,Electronics,1,69.99,69.99,7.99,427.94
+50088,2026-05-05,1054,Harper Johnson,1,USB-C Hub,Electronics,1,54.99,54.99,4.99,129.97
+50088,2026-05-05,1054,Harper Johnson,2,Webcam,Electronics,1,69.99,69.99,4.99,129.97
+50089,2026-06-07,1042,Harper Miller,1,USB-C Hub,Electronics,2,54.99,109.98,12.99,122.97
+50090,2026-08-04,1042,Harper Miller,1,USB-C Hub,Electronics,3,54.99,164.97,12.99,177.96
+50091,2026-09-10,1015,Ella Smith,1,Noise-Cancelling Headphones,Electronics,1,149.99,149.99,12.99,162.98
+50092,2026-04-12,1026,Ella Lewis,1,Webcam,Electronics,1,69.99,69.99,0.0,69.99
+50093,2026-06-09,1013,Ella Johnson,1,USB-C Hub,Electronics,1,54.99,54.99,4.99,339.95
+50093,2026-06-09,1013,Ella Johnson,2,Wireless Mouse,Accessories,2,24.99,49.98,4.99,339.95
+50093,2026-06-09,1013,Ella Johnson,3,Ergonomic Chair,Home Office,1,229.99,229.99,4.99,339.95
+50094,2026-09-11,1040,Evelyn Lopez,1,USB-C Hub,Electronics,2,54.99,109.98,12.99,352.96
+50094,2026-09-11,1040,Evelyn Lopez,2,Ergonomic Chair,Home Office,1,229.99,229.99,12.99,352.96
+50095,2026-03-16,1039,Ella Miller,1,Laptop Stand,Accessories,1,39.99,39.99,4.99,324.95
+50095,2026-03-16,1039,Ella Miller,2,Wireless Mouse,Accessories,2,24.99,49.98,4.99,324.95
+50095,2026-03-16,1039,Ella Miller,3,Ergonomic Chair,Home Office,1,229.99,229.99,4.99,324.95
+50096,2026-06-10,1029,Noah Lewis,1,Wireless Mouse,Accessories,1,24.99,24.99,7.99,262.97
+50096,2026-06-10,1029,Noah Lewis,2,Ergonomic Chair,Home Office,1,229.99,229.99,7.99,262.97
+50097,2026-08-28,1034,Ella Wright,1,Desk Lamp,Home Office,3,34.99,104.97,7.99,112.96
+50098,2026-03-28,1029,Noah Lewis,1,Wireless Mouse,Accessories,1,24.99,24.99,7.99,32.98
+50099,2026-03-05,1027,Sophia Davis,1,USB-C Hub,Electronics,2,54.99,109.98,7.99,347.96
+50099,2026-03-05,1027,Sophia Davis,2,Ergonomic Chair,Home Office,1,229.99,229.99,7.99,347.96
+50100,2026-08-10,1052,Logan Lewis,1,Ergonomic Chair,Home Office,1,229.99,229.99,4.99,234.98
+50101,2026-08-17,1059,Ella Walker,1,Noise-Cancelling Headphones,Electronics,1,149.99,149.99,12.99,162.98
+50102,2026-05-07,1027,Sophia Davis,1,Desk Lamp,Home Office,1,34.99,34.99,0.0,169.96
+50102,2026-05-07,1027,Sophia Davis,2,Laptop Stand,Accessories,2,39.99,79.98,0.0,169.96
+50102,2026-05-07,1027,Sophia Davis,3,USB-C Hub,Electronics,1,54.99,54.99,0.0,169.96
+50103,2026-02-02,1013,Ella Johnson,1,Noise-Cancelling Headphones,Electronics,3,149.99,449.97,7.99,582.94
+50103,2026-02-02,1013,Ella Johnson,2,Mechanical Keyboard,Accessories,1,89.99,89.99,7.99,582.94
+50103,2026-02-02,1013,Ella Johnson,3,Desk Lamp,Home Office,1,34.99,34.99,7.99,582.94
+50104,2026-06-12,1046,Isabella Brown,1,Webcam,Electronics,1,69.99,69.99,0.0,259.97
+50104,2026-06-12,1046,Isabella Brown,2,Laptop Stand,Accessories,1,39.99,39.99,0.0,259.97
+50104,2026-06-12,1046,Isabella Brown,3,Noise-Cancelling Headphones,Electronics,1,149.99,149.99,0.0,259.97
+50105,2026-07-17,1030,Liam Lewis,1,Desk Lamp,Home Office,3,34.99,104.97,4.99,449.93
+50105,2026-07-17,1030,Liam Lewis,2,Ergonomic Chair,Home Office,1,229.99,229.99,4.99,449.93
+50105,2026-07-17,1030,Liam Lewis,3,USB-C Hub,Electronics,2,54.99,109.98,4.99,449.93
+50106,2026-06-05,1048,Liam Walker,1,Mechanical Keyboard,Accessories,2,89.99,179.98,7.99,307.94
+50106,2026-06-05,1048,Liam Walker,2,Webcam,Electronics,1,69.99,69.99,7.99,307.94
+50106,2026-06-05,1048,Liam Walker,3,Wireless Mouse,Accessories,2,24.99,49.98,7.99,307.94
+50107,2026-02-10,1039,Ella Miller,1,Desk Lamp,Home Office,1,34.99,34.99,4.99,269.97
+50107,2026-02-10,1039,Ella Miller,2,Ergonomic Chair,Home Office,1,229.99,229.99,4.99,269.97
+50108,2026-09-04,1003,Liam Johnson,1,Noise-Cancelling Headphones,Electronics,2,149.99,299.98,12.99,387.94
+50108,2026-09-04,1003,Liam Johnson,2,Wireless Mouse,Accessories,3,24.99,74.97,12.99,387.94
+50109,2026-02-13,1017,Amelia Smith,1,Desk Lamp,Home Office,3,34.99,104.97,12.99,117.96
+50110,2026-03-30,1029,Noah Lewis,1,Desk Lamp,Home Office,1,34.99,34.99,12.99,47.98
+50111,2026-05-01,1044,Emma Clark,1,Wireless Mouse,Accessories,1,24.99,24.99,7.99,67.97
+50111,2026-05-01,1044,Emma Clark,2,Desk Lamp,Home Office,1,34.99,34.99,7.99,67.97
+50112,2026-05-11,1024,Henry King,1,USB-C Hub,Electronics,1,54.99,54.99,4.99,289.97
+50112,2026-05-11,1024,Henry King,2,Ergonomic Chair,Home Office,1,229.99,229.99,4.99,289.97
+50113,2026-04-07,1019,Henry King,1,Desk Lamp,Home Office,3,34.99,104.97,7.99,112.96
+50114,2026-09-27,1033,Isabella Lopez,1,Wireless Mouse,Accessories,3,24.99,74.97,12.99,87.96
+50115,2026-01-03,1007,Evelyn Garcia,1,USB-C Hub,Electronics,2,54.99,109.98,12.99,157.96
+50115,2026-01-03,1007,Evelyn Garcia,2,Desk Lamp,Home Office,1,34.99,34.99,12.99,157.96
+50116,2026-04-30,1019,Henry King,1,USB-C Hub,Electronics,3,54.99,164.97,4.99,169.96
+50117,2026-09-20,1024,Henry King,1,Ergonomic Chair,Home Office,1,229.99,229.99,0.0,389.97
+50117,2026-09-20,1024,Henry King,2,Webcam,Electronics,1,69.99,69.99,0.0,389.97
+50117,2026-09-20,1024,Henry King,3,Mechanical Keyboard,Accessories,1,89.99,89.99,0.0,389.97
+50118,2026-01-20,1014,Lucas Walker,1,Mechanical Keyboard,Accessories,1,89.99,89.99,0.0,89.99
+50119,2026-01-20,1017,Amelia Smith,1,USB-C Hub,Electronics,2,54.99,109.98,0.0,144.97
+50119,2026-01-20,1017,Amelia Smith,2,Desk Lamp,Home Office,1,34.99,34.99,0.0,144.97
+50120,2026-04-05,1024,Henry King,1,Wireless Mouse,Accessories,2,24.99,49.98,0.0,279.97
+50120,2026-04-05,1024,Henry King,2,Ergonomic Chair,Home Office,1,229.99,229.99,0.0,279.97
+50121,2026-07-28,1005,Logan Lewis,1,Desk Lamp,Home Office,1,34.99,34.99,4.99,39.98
+50122,2026-03-25,1006,Liam Wright,1,Webcam,Electronics,3,69.99,209.97,12.99,222.96
+50123,2026-06-07,1043,Jack Johnson,1,Laptop Stand,Accessories,1,39.99,39.99,7.99,137.97
+50123,2026-06-07,1043,Jack Johnson,2,Mechanical Keyboard,Accessories,1,89.99,89.99,7.99,137.97
+50124,2026-07-06,1050,Henry Lewis,1,Desk Lamp,Home Office,1,34.99,34.99,12.99,197.97
+50124,2026-07-06,1050,Henry Lewis,2,Noise-Cancelling Headphones,Electronics,1,149.99,149.99,12.99,197.97
+50125,2026-03-22,1058,Ethan Walker,1,Wireless Mouse,Accessories,1,24.99,24.99,7.99,87.97
+50125,2026-03-22,1058,Ethan Walker,2,USB-C Hub,Electronics,1,54.99,54.99,7.99,87.97
+50126,2026-01-27,1001,Isabella Brown,1,Desk Lamp,Home Office,2,34.99,69.98,7.99,117.96
+50126,2026-01-27,1001,Isabella Brown,2,Laptop Stand,Accessories,1,39.99,39.99,7.99,117.96
+50127,2026-05-26,1023,Ella Miller,1,Mechanical Keyboard,Accessories,1,89.99,89.99,0.0,89.99
+50128,2026-04-12,1032,Henry Martinez,1,Laptop Stand,Accessories,1,39.99,39.99,12.99,52.98
+50129,2026-07-18,1039,Ella Miller,1,Mechanical Keyboard,Accessories,1,89.99,89.99,4.99,94.98
+50130,2026-04-11,1040,Evelyn Lopez,1,Mechanical Keyboard,Accessories,1,89.99,89.99,0.0,184.97
+50130,2026-04-11,1040,Evelyn Lopez,2,Webcam,Electronics,1,69.99,69.99,0.0,184.97
+50130,2026-04-11,1040,Evelyn Lopez,3,Wireless Mouse,Accessories,1,24.99,24.99,0.0,184.97
+50131,2026-03-18,1008,Liam Johnson,1,USB-C Hub,Electronics,2,54.99,109.98,0.0,109.98
+50132,2026-01-20,1054,Harper Johnson,1,Noise-Cancelling Headphones,Electronics,1,149.99,149.99,12.99,202.97
+50132,2026-01-20,1054,Harper Johnson,2,Laptop Stand,Accessories,1,39.99,39.99,12.99,202.97
+50133,2026-06-06,1041,Isabella Hall,1,Webcam,Electronics,1,69.99,69.99,4.99,304.97
+50133,2026-06-06,1041,Isabella Hall,2,Ergonomic Chair,Home Office,1,229.99,229.99,4.99,304.97
+50134,2026-09-15,1029,Noah Lewis,1,Laptop Stand,Accessories,1,39.99,39.99,12.99,282.97
+50134,2026-09-15,1029,Noah Lewis,2,Ergonomic Chair,Home Office,1,229.99,229.99,12.99,282.97
+50135,2026-08-23,1040,Evelyn Lopez,1,Ergonomic Chair,Home Office,1,229.99,229.99,0.0,324.97
+50135,2026-08-23,1040,Evelyn Lopez,2,USB-C Hub,Electronics,1,54.99,54.99,0.0,324.97
+50135,2026-08-23,1040,Evelyn Lopez,3,Laptop Stand,Accessories,1,39.99,39.99,0.0,324.97
+50136,2026-09-16,1029,Noah Lewis,1,Laptop Stand,Accessories,1,39.99,39.99,4.99,504.96
+50136,2026-09-16,1029,Noah Lewis,2,Ergonomic Chair,Home Office,2,229.99,459.98,4.99,504.96
+50137,2026-09-19,1050,Henry Lewis,1,Desk Lamp,Home Office,1,34.99,34.99,4.99,39.98
+50138,2026-02-26,1005,Logan Lewis,1,Ergonomic Chair,Home Office,3,229.99,689.97,7.99,697.96
+50139,2026-03-26,1059,Ella Walker,1,USB-C Hub,Electronics,1,54.99,54.99,7.99,102.97
+50139,2026-03-26,1059,Ella Walker,2,Laptop Stand,Accessories,1,39.99,39.99,7.99,102.97
+50140,2026-05-21,1021,James Brown,1,Ergonomic Chair,Home Office,1,229.99,229.99,12.99,357.96
+50140,2026-05-21,1021,James Brown,2,Wireless Mouse,Accessories,1,24.99,24.99,12.99,357.96
+50140,2026-05-21,1021,James Brown,3,Mechanical Keyboard,Accessories,1,89.99,89.99,12.99,357.96
+50141,2026-07-10,1021,James Brown,1,Mechanical Keyboard,Accessories,1,89.99,89.99,12.99,102.98
+50142,2026-05-23,1060,Harper Miller,1,Desk Lamp,Home Office,1,34.99,34.99,7.99,67.97
+50142,2026-05-23,1060,Harper Miller,2,Wireless Mouse,Accessories,1,24.99,24.99,7.99,67.97
+50143,2026-07-04,1041,Isabella Hall,1,Ergonomic Chair,Home Office,1,229.99,229.99,0.0,669.94
+50143,2026-07-04,1041,Isabella Hall,2,Webcam,Electronics,1,69.99,69.99,0.0,669.94
+50143,2026-07-04,1041,Isabella Hall,3,Desk Lamp,Home Office,2,34.99,69.98,0.0,669.94
+50143,2026-07-04,1041,Isabella Hall,4,Noise-Cancelling Headphones,Electronics,2,149.99,299.98,0.0,669.94
+50144,2026-05-16,1024,Henry King,1,Noise-Cancelling Headphones,Electronics,1,149.99,149.99,4.99,154.98
+50145,2026-02-11,1049,Noah Young,1,Mechanical Keyboard,Accessories,1,89.99,89.99,0.0,159.98
+50145,2026-02-11,1049,Noah Young,2,Webcam,Electronics,1,69.99,69.99,0.0,159.98
+50146,2026-06-10,1020,Olivia Miller,1,Laptop Stand,Accessories,1,39.99,39.99,4.99,69.97
+50146,2026-06-10,1020,Olivia Miller,2,Wireless Mouse,Accessories,1,24.99,24.99,4.99,69.97
+50147,2026-09-20,1027,Sophia Davis,1,Laptop Stand,Accessories,1,39.99,39.99,4.99,44.98
+50148,2026-01-24,1040,Evelyn Lopez,1,Laptop Stand,Accessories,1,39.99,39.99,7.99,47.98
+50149,2026-07-02,1034,Ella Wright,1,Desk Lamp,Home Office,1,34.99,34.99,7.99,112.97
+50149,2026-07-02,1034,Ella Wright,2,Webcam,Electronics,1,69.99,69.99,7.99,112.97
+50150,2026-09-01,1040,Evelyn Lopez,1,Laptop Stand,Accessories,2,39.99,79.98,4.99,84.97
+50151,2026-02-19,1029,Noah Lewis,1,Mechanical Keyboard,Accessories,1,89.99,89.99,7.99,97.98
+50152,2026-01-06,1017,Amelia Smith,1,Noise-Cancelling Headphones,Electronics,1,149.99,149.99,12.99,162.98
+50153,2026-09-10,1034,Ella Wright,1,Laptop Stand,Accessories,1,39.99,39.99,0.0,39.99
+50154,2026-07-27,1002,Amelia Walker,1,Mechanical Keyboard,Accessories,2,89.99,179.98,0.0,179.98
+50155,2026-01-07,1007,Evelyn Garcia,1,USB-C Hub,Electronics,1,54.99,54.99,12.99,92.97
+50155,2026-01-07,1007,Evelyn Garcia,2,Wireless Mouse,Accessories,1,24.99,24.99,12.99,92.97
+50156,2026-08-01,1033,Isabella Lopez,1,Mechanical Keyboard,Accessories,1,89.99,89.99,0.0,619.96
+50156,2026-08-01,1033,Isabella Lopez,2,Webcam,Electronics,1,69.99,69.99,0.0,619.96
+50156,2026-08-01,1033,Isabella Lopez,3,Ergonomic Chair,Home Office,2,229.99,459.98,0.0,619.96
+50157,2026-09-02,1051,Isabella Davis,1,Laptop Stand,Accessories,2,39.99,79.98,12.99,147.96
+50157,2026-09-02,1051,Isabella Davis,2,USB-C Hub,Electronics,1,54.99,54.99,12.99,147.96
+50158,2026-08-20,1048,Liam Walker,1,Wireless Mouse,Accessories,1,24.99,24.99,7.99,32.98
+50159,2026-03-05,1003,Liam Johnson,1,Webcam,Electronics,1,69.99,69.99,0.0,69.99
+50160,2026-08-12,1036,Ethan Garcia,1,Webcam,Electronics,1,69.99,69.99,4.99,164.97
+50160,2026-08-12,1036,Ethan Garcia,2,Mechanical Keyboard,Accessories,1,89.99,89.99,4.99,164.97
+50161,2026-05-14,1011,Noah Clark,1,USB-C Hub,Electronics,1,54.99,54.99,7.99,237.96
+50161,2026-05-14,1011,Noah Clark,2,Wireless Mouse,Accessories,1,24.99,24.99,7.99,237.96
+50161,2026-05-14,1011,Noah Clark,3,Noise-Cancelling Headphones,Electronics,1,149.99,149.99,7.99,237.96
+50162,2026-08-29,1025,Mason Johnson,1,Laptop Stand,Accessories,1,39.99,39.99,0.0,109.97
+50162,2026-08-29,1025,Mason Johnson,2,Desk Lamp,Home Office,2,34.99,69.98,0.0,109.97
+50163,2026-06-07,1037,Mason Hall,1,Desk Lamp,Home Office,1,34.99,34.99,0.0,334.97
+50163,2026-06-07,1037,Mason Hall,2,Webcam,Electronics,1,69.99,69.99,0.0,334.97
+50163,2026-06-07,1037,Mason Hall,3,Ergonomic Chair,Home Office,1,229.99,229.99,0.0,334.97
+50164,2026-02-24,1008,Liam Johnson,1,Mechanical Keyboard,Accessories,2,89.99,179.98,4.99,414.96
+50164,2026-02-24,1008,Liam Johnson,2,Ergonomic Chair,Home Office,1,229.99,229.99,4.99,414.96
+50165,2026-01-22,1009,James Martinez,1,Laptop Stand,Accessories,1,39.99,39.99,7.99,737.95
+50165,2026-01-22,1009,James Martinez,2,Ergonomic Chair,Home Office,3,229.99,689.97,7.99,737.95
+50166,2026-02-03,1035,Harper Davis,1,Desk Lamp,Home Office,1,34.99,34.99,4.99,154.94
+50166,2026-02-03,1035,Harper Davis,2,Laptop Stand,Accessories,1,39.99,39.99,4.99,154.94
+50166,2026-02-03,1035,Harper Davis,3,Wireless Mouse,Accessories,3,24.99,74.97,4.99,154.94
+50167,2026-02-14,1059,Ella Walker,1,Webcam,Electronics,1,69.99,69.99,4.99,224.95
+50167,2026-02-14,1059,Ella Walker,2,USB-C Hub,Electronics,2,54.99,109.98,4.99,224.95
+50167,2026-02-14,1059,Ella Walker,3,Laptop Stand,Accessories,1,39.99,39.99,4.99,224.95
+50168,2026-06-22,1021,James Brown,1,Laptop Stand,Accessories,3,39.99,119.97,7.99,217.95
+50168,2026-06-22,1021,James Brown,2,Mechanical Keyboard,Accessories,1,89.99,89.99,7.99,217.95
+50169,2026-07-08,1049,Noah Young,1,Ergonomic Chair,Home Office,2,229.99,459.98,0.0,584.96
+50169,2026-07-08,1049,Noah Young,2,Desk Lamp,Home Office,1,34.99,34.99,0.0,584.96
+50169,2026-07-08,1049,Noah Young,3,Mechanical Keyboard,Accessories,1,89.99,89.99,0.0,584.96
+50170,2026-06-27,1007,Evelyn Garcia,1,Laptop Stand,Accessories,2,39.99,79.98,4.99,224.95
+50170,2026-06-27,1007,Evelyn Garcia,2,Webcam,Electronics,2,69.99,139.98,4.99,224.95
+50171,2026-05-28,1037,Mason Hall,1,Laptop Stand,Accessories,1,39.99,39.99,4.99,44.98
+50172,2026-01-28,1049,Noah Young,1,Ergonomic Chair,Home Office,1,229.99,229.99,0.0,229.99
+50173,2026-04-05,1051,Isabella Davis,1,Noise-Cancelling Headphones,Electronics,1,149.99,149.99,4.99,349.95
+50173,2026-04-05,1051,Isabella Davis,2,Desk Lamp,Home Office,1,34.99,34.99,4.99,349.95
+50173,2026-04-05,1051,Isabella Davis,3,Webcam,Electronics,1,69.99,69.99,4.99,349.95
+50173,2026-04-05,1051,Isabella Davis,4,Mechanical Keyboard,Accessories,1,89.99,89.99,4.99,349.95
+50174,2026-02-11,1008,Liam Johnson,1,Wireless Mouse,Accessories,1,24.99,24.99,7.99,182.97
+50174,2026-02-11,1008,Liam Johnson,2,Noise-Cancelling Headphones,Electronics,1,149.99,149.99,7.99,182.97
+50175,2026-02-14,1026,Ella Lewis,1,Laptop Stand,Accessories,1,39.99,39.99,4.99,134.97
+50175,2026-02-14,1026,Ella Lewis,2,Mechanical Keyboard,Accessories,1,89.99,89.99,4.99,134.97
+50176,2026-09-14,1035,Harper Davis,1,USB-C Hub,Electronics,1,54.99,54.99,12.99,67.98
+50177,2026-01-18,1039,Ella Miller,1,Noise-Cancelling Headphones,Electronics,2,149.99,299.98,4.99,304.97
+50178,2026-06-15,1029,Noah Lewis,1,Ergonomic Chair,Home Office,1,229.99,229.99,7.99,237.98
+50179,2026-06-21,1009,James Martinez,1,USB-C Hub,Electronics,1,54.99,54.99,4.99,199.96
+50179,2026-06-21,1009,James Martinez,2,Webcam,Electronics,2,69.99,139.98,4.99,199.96
+50180,2026-03-21,1053,Elijah Lewis,1,USB-C Hub,Electronics,1,54.99,54.99,7.99,212.97
+50180,2026-03-21,1053,Elijah Lewis,2,Noise-Cancelling Headphones,Electronics,1,149.99,149.99,7.99,212.97
+50181,2026-06-17,1016,Ella Lewis,1,Webcam,Electronics,1,69.99,69.99,0.0,284.96
+50181,2026-06-17,1016,Ella Lewis,2,Noise-Cancelling Headphones,Electronics,1,149.99,149.99,0.0,284.96
+50181,2026-06-17,1016,Ella Lewis,3,Laptop Stand,Accessories,1,39.99,39.99,0.0,284.96
+50181,2026-06-17,1016,Ella Lewis,4,Wireless Mouse,Accessories,1,24.99,24.99,0.0,284.96
+50182,2026-08-11,1020,Olivia Miller,1,Wireless Mouse,Accessories,1,24.99,24.99,0.0,24.99
+50183,2026-07-18,1057,Noah Smith,1,Laptop Stand,Accessories,1,39.99,39.99,12.99,107.97
+50183,2026-07-18,1057,Noah Smith,2,USB-C Hub,Electronics,1,54.99,54.99,12.99,107.97
+50184,2026-06-01,1041,Isabella Hall,1,Mechanical Keyboard,Accessories,1,89.99,89.99,12.99,332.97
+50184,2026-06-01,1041,Isabella Hall,2,Ergonomic Chair,Home Office,1,229.99,229.99,12.99,332.97
+50185,2026-08-09,1055,Noah Miller,1,Desk Lamp,Home Office,1,34.99,34.99,4.99,269.97
+50185,2026-08-09,1055,Noah Miller,2,Ergonomic Chair,Home Office,1,229.99,229.99,4.99,269.97
+50186,2026-04-28,1057,Noah Smith,1,Wireless Mouse,Accessories,1,24.99,24.99,12.99,92.97
+50186,2026-04-28,1057,Noah Smith,2,USB-C Hub,Electronics,1,54.99,54.99,12.99,92.97
+50187,2026-08-03,1007,Evelyn Garcia,1,Desk Lamp,Home Office,1,34.99,34.99,4.99,39.98
+50188,2026-09-05,1028,Emma Clark,1,Desk Lamp,Home Office,2,34.99,69.98,4.99,144.96
+50188,2026-09-05,1028,Emma Clark,2,Webcam,Electronics,1,69.99,69.99,4.99,144.96
+50189,2026-07-19,1001,Isabella Brown,1,Wireless Mouse,Accessories,1,24.99,24.99,4.99,379.93
+50189,2026-07-19,1001,Isabella Brown,2,Laptop Stand,Accessories,2,39.99,79.98,4.99,379.93
+50189,2026-07-19,1001,Isabella Brown,3,Mechanical Keyboard,Accessories,3,89.99,269.97,4.99,379.93
+50190,2026-06-28,1034,Ella Wright,1,Ergonomic Chair,Home Office,2,229.99,459.98,4.99,464.97
+50191,2026-01-09,1033,Isabella Lopez,1,Noise-Cancelling Headphones,Electronics,1,149.99,149.99,7.99,367.95
+50191,2026-01-09,1033,Isabella Lopez,2,Webcam,Electronics,3,69.99,209.97,7.99,367.95
+50192,2026-04-05,1014,Lucas Walker,1,Wireless Mouse,Accessories,1,24.99,24.99,7.99,32.98
+50193,2026-05-21,1017,Amelia Smith,1,Laptop Stand,Accessories,1,39.99,39.99,0.0,39.99
+50194,2026-08-04,1059,Ella Walker,1,Noise-Cancelling Headphones,Electronics,1,149.99,149.99,7.99,227.97
+50194,2026-08-04,1059,Ella Walker,2,Webcam,Electronics,1,69.99,69.99,7.99,227.97
+50195,2026-09-27,1026,Ella Lewis,1,Desk Lamp,Home Office,3,34.99,104.97,4.99,364.92
+50195,2026-09-27,1026,Ella Lewis,2,USB-C Hub,Electronics,1,54.99,54.99,4.99,364.92
+50195,2026-09-27,1026,Ella Lewis,3,Wireless Mouse,Accessories,2,24.99,49.98,4.99,364.92
+50195,2026-09-27,1026,Ella Lewis,4,Noise-Cancelling Headphones,Electronics,1,149.99,149.99,4.99,364.92
+50196,2026-04-26,1042,Harper Miller,1,Mechanical Keyboard,Accessories,1,89.99,89.99,12.99,482.96
+50196,2026-04-26,1042,Harper Miller,2,Ergonomic Chair,Home Office,1,229.99,229.99,12.99,482.96
+50196,2026-04-26,1042,Harper Miller,3,Noise-Cancelling Headphones,Electronics,1,149.99,149.99,12.99,482.96
+50197,2026-08-29,1009,James Martinez,1,USB-C Hub,Electronics,2,54.99,109.98,7.99,117.97
+50198,2026-05-10,1044,Emma Clark,1,Mechanical Keyboard,Accessories,1,89.99,89.99,7.99,422.95
+50198,2026-05-10,1044,Emma Clark,2,USB-C Hub,Electronics,1,54.99,54.99,7.99,422.95
+50198,2026-05-10,1044,Emma Clark,3,Laptop Stand,Accessories,1,39.99,39.99,7.99,422.95
+50198,2026-05-10,1044,Emma Clark,4,Ergonomic Chair,Home Office,1,229.99,229.99,7.99,422.95
+50199,2026-02-13,1041,Isabella Hall,1,Noise-Cancelling Headphones,Electronics,2,149.99,299.98,7.99,332.96
+50199,2026-02-13,1041,Isabella Hall,2,Wireless Mouse,Accessories,1,24.99,24.99,7.99,332.96
+50200,2026-06-16,1053,Elijah Lewis,1,Mechanical Keyboard,Accessories,1,89.99,89.99,0.0,389.97
+50200,2026-06-16,1053,Elijah Lewis,2,Webcam,Electronics,1,69.99,69.99,0.0,389.97
+50200,2026-06-16,1053,Elijah Lewis,3,Ergonomic Chair,Home Office,1,229.99,229.99,0.0,389.97
+50201,2026-05-09,1019,Henry King,1,Mechanical Keyboard,Accessories,1,89.99,89.99,4.99,129.97
+50201,2026-05-09,1019,Henry King,2,Desk Lamp,Home Office,1,34.99,34.99,4.99,129.97
+50202,2026-03-20,1051,Isabella Davis,1,Desk Lamp,Home Office,1,34.99,34.99,4.99,39.98
+50203,2026-02-16,1045,James Brown,1,Webcam,Electronics,1,69.99,69.99,12.99,107.97
+50203,2026-02-16,1045,James Brown,2,Wireless Mouse,Accessories,1,24.99,24.99,12.99,107.97
+50204,2026-08-13,1048,Liam Walker,1,Wireless Mouse,Accessories,1,24.99,24.99,0.0,94.98
+50204,2026-08-13,1048,Liam Walker,2,Webcam,Electronics,1,69.99,69.99,0.0,94.98
+50205,2026-08-31,1009,James Martinez,1,Laptop Stand,Accessories,2,39.99,79.98,12.99,202.95
+50205,2026-08-31,1009,James Martinez,2,USB-C Hub,Electronics,2,54.99,109.98,12.99,202.95
+50206,2026-09-13,1016,Ella Lewis,1,Laptop Stand,Accessories,2,39.99,79.98,4.99,84.97
+50207,2026-09-12,1030,Liam Lewis,1,Ergonomic Chair,Home Office,1,229.99,229.99,12.99,512.95
+50207,2026-09-12,1030,Liam Lewis,2,Mechanical Keyboard,Accessories,3,89.99,269.97,12.99,512.95
+50208,2026-04-03,1005,Logan Lewis,1,Laptop Stand,Accessories,1,39.99,39.99,0.0,729.96
+50208,2026-04-03,1005,Logan Lewis,2,Ergonomic Chair,Home Office,3,229.99,689.97,0.0,729.96
+50209,2026-02-18,1022,Henry Johnson,1,Ergonomic Chair,Home Office,1,229.99,229.99,4.99,304.96
+50209,2026-02-18,1022,Henry Johnson,2,Desk Lamp,Home Office,2,34.99,69.98,4.99,304.96
+50210,2026-03-06,1041,Isabella Hall,1,Noise-Cancelling Headphones,Electronics,1,149.99,149.99,7.99,157.98
+50211,2026-04-18,1034,Ella Wright,1,Noise-Cancelling Headphones,Electronics,1,149.99,149.99,12.99,162.98
+50212,2026-05-29,1004,Henry Johnson,1,Ergonomic Chair,Home Office,1,229.99,229.99,12.99,242.98
+50213,2026-09-17,1018,Lucas Smith,1,USB-C Hub,Electronics,2,54.99,109.98,12.99,122.97
+50214,2026-04-09,1022,Henry Johnson,1,Webcam,Electronics,1,69.99,69.99,4.99,74.98
+50215,2026-02-14,1041,Isabella Hall,1,Laptop Stand,Accessories,1,39.99,39.99,12.99,257.96
+50215,2026-02-14,1041,Isabella Hall,2,USB-C Hub,Electronics,1,54.99,54.99,12.99,257.96
+50215,2026-02-14,1041,Isabella Hall,3,Noise-Cancelling Headphones,Electronics,1,149.99,149.99,12.99,257.96
+50216,2026-01-24,1001,Isabella Brown,1,Ergonomic Chair,Home Office,2,229.99,459.98,0.0,459.98
+50217,2026-07-12,1059,Ella Walker,1,Wireless Mouse,Accessories,1,24.99,24.99,0.0,254.98
+50217,2026-07-12,1059,Ella Walker,2,Ergonomic Chair,Home Office,1,229.99,229.99,0.0,254.98
+50218,2026-03-31,1049,Noah Young,1,Mechanical Keyboard,Accessories,1,89.99,89.99,0.0,89.99
+50219,2026-01-07,1007,Evelyn Garcia,1,Mechanical Keyboard,Accessories,1,89.99,89.99,7.99,97.98
+50220,2026-06-04,1017,Amelia Smith,1,Laptop Stand,Accessories,1,39.99,39.99,7.99,47.98
+50221,2026-01-28,1037,Mason Hall,1,Laptop Stand,Accessories,2,39.99,79.98,0.0,114.97
+50221,2026-01-28,1037,Mason Hall,2,Desk Lamp,Home Office,1,34.99,34.99,0.0,114.97
+50222,2026-07-27,1045,James Brown,1,Laptop Stand,Accessories,1,39.99,39.99,12.99,502.95
+50222,2026-07-27,1045,James Brown,2,Noise-Cancelling Headphones,Electronics,3,149.99,449.97,12.99,502.95
+50223,2026-03-21,1043,Jack Johnson,1,Desk Lamp,Home Office,1,34.99,34.99,0.0,104.98
+50223,2026-03-21,1043,Jack Johnson,2,Webcam,Electronics,1,69.99,69.99,0.0,104.98
+50224,2026-03-19,1058,Ethan Walker,1,Desk Lamp,Home Office,1,34.99,34.99,0.0,74.98
+50224,2026-03-19,1058,Ethan Walker,2,Laptop Stand,Accessories,1,39.99,39.99,0.0,74.98
+50225,2026-02-15,1055,Noah Miller,1,Wireless Mouse,Accessories,1,24.99,24.99,4.99,29.98
+50226,2026-05-05,1018,Lucas Smith,1,Mechanical Keyboard,Accessories,2,89.99,179.98,7.99,267.95
+50226,2026-05-05,1018,Lucas Smith,2,Laptop Stand,Accessories,2,39.99,79.98,7.99,267.95
+50227,2026-03-16,1055,Noah Miller,1,Wireless Mouse,Accessories,1,24.99,24.99,12.99,307.95
+50227,2026-03-16,1055,Noah Miller,2,Mechanical Keyboard,Accessories,3,89.99,269.97,12.99,307.95
+50228,2026-01-27,1017,Amelia Smith,1,Laptop Stand,Accessories,2,39.99,79.98,0.0,309.97
+50228,2026-01-27,1017,Amelia Smith,2,Ergonomic Chair,Home Office,1,229.99,229.99,0.0,309.97
+50229,2026-02-10,1040,Evelyn Lopez,1,Webcam,Electronics,3,69.99,209.97,4.99,214.96
+50230,2026-09-07,1054,Harper Johnson,1,Noise-Cancelling Headphones,Electronics,1,149.99,149.99,12.99,252.97
+50230,2026-09-07,1054,Harper Johnson,2,Mechanical Keyboard,Accessories,1,89.99,89.99,12.99,252.97
+50231,2026-03-01,1052,Logan Lewis,1,Mechanical Keyboard,Accessories,1,89.99,89.99,12.99,102.98
+50232,2026-08-20,1050,Henry Lewis,1,Noise-Cancelling Headphones,Electronics,2,149.99,299.98,7.99,562.93
+50232,2026-08-20,1050,Henry Lewis,2,Mechanical Keyboard,Accessories,2,89.99,179.98,7.99,562.93
+50232,2026-08-20,1050,Henry Lewis,3,Desk Lamp,Home Office,1,34.99,34.99,7.99,562.93
+50232,2026-08-20,1050,Henry Lewis,4,Laptop Stand,Accessories,1,39.99,39.99,7.99,562.93
+50233,2026-06-08,1054,Harper Johnson,1,USB-C Hub,Electronics,1,54.99,54.99,12.99,297.97
+50233,2026-06-08,1054,Harper Johnson,2,Ergonomic Chair,Home Office,1,229.99,229.99,12.99,297.97
+50234,2026-04-30,1058,Ethan Walker,1,Webcam,Electronics,1,69.99,69.99,7.99,267.96
+50234,2026-04-30,1058,Ethan Walker,2,Noise-Cancelling Headphones,Electronics,1,149.99,149.99,7.99,267.96
+50234,2026-04-30,1058,Ethan Walker,3,Laptop Stand,Accessories,1,39.99,39.99,7.99,267.96
+50235,2026-01-22,1053,Elijah Lewis,1,Mechanical Keyboard,Accessories,1,89.99,89.99,4.99,94.98
+50236,2026-09-13,1055,Noah Miller,1,Wireless Mouse,Accessories,2,24.99,49.98,12.99,62.97
+50237,2026-04-30,1013,Ella Johnson,1,Laptop Stand,Accessories,1,39.99,39.99,12.99,52.98
+50238,2026-05-11,1014,Lucas Walker,1,Laptop Stand,Accessories,1,39.99,39.99,12.99,87.97
+50238,2026-05-11,1014,Lucas Walker,2,Desk Lamp,Home Office,1,34.99,34.99,12.99,87.97
+50239,2026-07-01,1052,Logan Lewis,1,USB-C Hub,Electronics,2,54.99,109.98,7.99,417.95
+50239,2026-07-01,1052,Logan Lewis,2,Ergonomic Chair,Home Office,1,229.99,229.99,7.99,417.95
+50239,2026-07-01,1052,Logan Lewis,3,Webcam,Electronics,1,69.99,69.99,7.99,417.95
+50240,2026-04-14,1038,Lucas Johnson,1,USB-C Hub,Electronics,1,54.99,54.99,0.0,54.99
+50241,2026-05-29,1045,James Brown,1,Noise-Cancelling Headphones,Electronics,2,149.99,299.98,12.99,312.97
+50242,2026-03-18,1055,Noah Miller,1,Ergonomic Chair,Home Office,2,229.99,459.98,7.99,467.97
+50243,2026-08-26,1024,Henry King,1,Mechanical Keyboard,Accessories,1,89.99,89.99,0.0,389.97
+50243,2026-08-26,1024,Henry King,2,Ergonomic Chair,Home Office,1,229.99,229.99,0.0,389.97
+50243,2026-08-26,1024,Henry King,3,Webcam,Electronics,1,69.99,69.99,0.0,389.97
+50244,2026-04-15,1003,Liam Johnson,1,Ergonomic Chair,Home Office,3,229.99,689.97,7.99,827.93
+50244,2026-04-15,1003,Liam Johnson,2,Webcam,Electronics,1,69.99,69.99,7.99,827.93
+50244,2026-04-15,1003,Liam Johnson,3,Desk Lamp,Home Office,1,34.99,34.99,7.99,827.93
+50244,2026-04-15,1003,Liam Johnson,4,Wireless Mouse,Accessories,1,24.99,24.99,7.99,827.93
+50245,2026-03-09,1038,Lucas Johnson,1,Laptop Stand,Accessories,1,39.99,39.99,7.99,47.98
+50246,2026-07-13,1012,James Smith,1,Laptop Stand,Accessories,1,39.99,39.99,0.0,39.99
+50247,2026-08-23,1056,Elijah Hall,1,Wireless Mouse,Accessories,3,24.99,74.97,12.99,157.94
+50247,2026-08-23,1056,Elijah Hall,2,Desk Lamp,Home Office,2,34.99,69.98,12.99,157.94
+50248,2026-05-12,1006,Liam Wright,1,USB-C Hub,Electronics,3,54.99,164.97,0.0,164.97
+50249,2026-09-17,1043,Jack Johnson,1,Ergonomic Chair,Home Office,1,229.99,229.99,4.99,234.98
+50250,2026-04-24,1016,Ella Lewis,1,Webcam,Electronics,1,69.99,69.99,7.99,77.98
+50251,2026-01-15,1036,Ethan Garcia,1,Laptop Stand,Accessories,1,39.99,39.99,12.99,282.95
+50251,2026-01-15,1036,Ethan Garcia,2,Mechanical Keyboard,Accessories,1,89.99,89.99,12.99,282.95
+50251,2026-01-15,1036,Ethan Garcia,3,Webcam,Electronics,2,69.99,139.98,12.99,282.95
+50252,2026-06-02,1013,Ella Johnson,1,Ergonomic Chair,Home Office,1,229.99,229.99,0.0,264.98
+50252,2026-06-02,1013,Ella Johnson,2,Desk Lamp,Home Office,1,34.99,34.99,0.0,264.98
+50253,2026-03-05,1025,Mason Johnson,1,Desk Lamp,Home Office,1,34.99,34.99,4.99,39.98
+50254,2026-03-15,1052,Logan Lewis,1,Laptop Stand,Accessories,2,39.99,79.98,4.99,439.94
+50254,2026-03-15,1052,Logan Lewis,2,USB-C Hub,Electronics,1,54.99,54.99,4.99,439.94
+50254,2026-03-15,1052,Logan Lewis,3,Noise-Cancelling Headphones,Electronics,2,149.99,299.98,4.99,439.94
+50255,2026-07-11,1005,Logan Lewis,1,Mechanical Keyboard,Accessories,3,89.99,269.97,0.0,359.95
+50255,2026-07-11,1005,Logan Lewis,2,Desk Lamp,Home Office,1,34.99,34.99,0.0,359.95
+50255,2026-07-11,1005,Logan Lewis,3,USB-C Hub,Electronics,1,54.99,54.99,0.0,359.95
+50256,2026-08-20,1005,Logan Lewis,1,Noise-Cancelling Headphones,Electronics,1,149.99,149.99,0.0,264.96
+50256,2026-08-20,1005,Logan Lewis,2,Desk Lamp,Home Office,1,34.99,34.99,0.0,264.96
+50256,2026-08-20,1005,Logan Lewis,3,Wireless Mouse,Accessories,1,24.99,24.99,0.0,264.96
+50256,2026-08-20,1005,Logan Lewis,4,USB-C Hub,Electronics,1,54.99,54.99,0.0,264.96
+50257,2026-08-20,1046,Isabella Brown,1,Mechanical Keyboard,Accessories,1,89.99,89.99,4.99,149.97
+50257,2026-08-20,1046,Isabella Brown,2,USB-C Hub,Electronics,1,54.99,54.99,4.99,149.97
+50258,2026-01-14,1010,Noah Garcia,1,Webcam,Electronics,2,69.99,139.98,7.99,147.97
+50259,2026-09-09,1017,Amelia Smith,1,Ergonomic Chair,Home Office,1,229.99,229.99,12.99,242.98
+50260,2026-01-30,1033,Isabella Lopez,1,USB-C Hub,Electronics,2,54.99,109.98,12.99,192.96
+50260,2026-01-30,1033,Isabella Lopez,2,Webcam,Electronics,1,69.99,69.99,12.99,192.96
+50261,2026-04-14,1049,Noah Young,1,Desk Lamp,Home Office,1,34.99,34.99,0.0,449.95
+50261,2026-04-14,1049,Noah Young,2,Mechanical Keyboard,Accessories,1,89.99,89.99,0.0,449.95
+50261,2026-04-14,1049,Noah Young,3,Wireless Mouse,Accessories,1,24.99,24.99,0.0,449.95
+50261,2026-04-14,1049,Noah Young,4,Noise-Cancelling Headphones,Electronics,2,149.99,299.98,0.0,449.95
+50262,2026-03-15,1019,Henry King,1,Laptop Stand,Accessories,1,39.99,39.99,4.99,454.92
+50262,2026-03-15,1019,Henry King,2,USB-C Hub,Electronics,2,54.99,109.98,4.99,454.92
+50262,2026-03-15,1019,Henry King,3,Webcam,Electronics,3,69.99,209.97,4.99,454.92
+50262,2026-03-15,1019,Henry King,4,Mechanical Keyboard,Accessories,1,89.99,89.99,4.99,454.92
+50263,2026-08-11,1024,Henry King,1,Desk Lamp,Home Office,1,34.99,34.99,4.99,39.98
+50264,2026-03-12,1012,James Smith,1,USB-C Hub,Electronics,1,54.99,54.99,4.99,409.94
+50264,2026-03-12,1012,James Smith,2,Noise-Cancelling Headphones,Electronics,2,149.99,299.98,4.99,409.94
+50264,2026-03-12,1012,James Smith,3,Wireless Mouse,Accessories,2,24.99,49.98,4.99,409.94
+50265,2026-09-11,1047,Elijah Martinez,1,Mechanical Keyboard,Accessories,1,89.99,89.99,4.99,154.96
+50265,2026-09-11,1047,Elijah Martinez,2,Wireless Mouse,Accessories,1,24.99,24.99,4.99,154.96
+50265,2026-09-11,1047,Elijah Martinez,3,Desk Lamp,Home Office,1,34.99,34.99,4.99,154.96
+50266,2026-09-24,1047,Elijah Martinez,1,Laptop Stand,Accessories,1,39.99,39.99,7.99,187.96
+50266,2026-09-24,1047,Elijah Martinez,2,Webcam,Electronics,2,69.99,139.98,7.99,187.96
+50267,2026-09-10,1056,Elijah Hall,1,Desk Lamp,Home Office,1,34.99,34.99,12.99,47.98
+50268,2026-05-17,1043,Jack Johnson,1,Noise-Cancelling Headphones,Electronics,1,149.99,149.99,0.0,149.99
+50269,2026-01-03,1024,Henry King,1,Ergonomic Chair,Home Office,1,229.99,229.99,0.0,229.99
+50270,2026-05-06,1046,Isabella Brown,1,Noise-Cancelling Headphones,Electronics,1,149.99,149.99,12.99,462.95
+50270,2026-05-06,1046,Isabella Brown,2,Desk Lamp,Home Office,2,34.99,69.98,12.99,462.95
+50270,2026-05-06,1046,Isabella Brown,3,Ergonomic Chair,Home Office,1,229.99,229.99,12.99,462.95
+50271,2026-09-11,1007,Evelyn Garcia,1,Laptop Stand,Accessories,1,39.99,39.99,4.99,254.95
+50271,2026-09-11,1007,Evelyn Garcia,2,Webcam,Electronics,3,69.99,209.97,4.99,254.95
+50272,2026-04-04,1015,Ella Smith,1,Webcam,Electronics,1,69.99,69.99,7.99,77.98
+50273,2026-01-10,1002,Amelia Walker,1,USB-C Hub,Electronics,1,54.99,54.99,7.99,62.98
+50274,2026-08-26,1039,Ella Miller,1,Ergonomic Chair,Home Office,2,229.99,459.98,7.99,547.95
+50274,2026-08-26,1039,Ella Miller,2,Laptop Stand,Accessories,2,39.99,79.98,7.99,547.95
+50275,2026-05-20,1003,Liam Johnson,1,Ergonomic Chair,Home Office,1,229.99,229.99,7.99,237.98
+50276,2026-07-27,1008,Liam Johnson,1,USB-C Hub,Electronics,1,54.99,54.99,4.99,119.96
+50276,2026-07-27,1008,Liam Johnson,2,Desk Lamp,Home Office,1,34.99,34.99,4.99,119.96
+50276,2026-07-27,1008,Liam Johnson,3,Wireless Mouse,Accessories,1,24.99,24.99,4.99,119.96
+50277,2026-01-10,1053,Elijah Lewis,1,Desk Lamp,Home Office,1,34.99,34.99,0.0,664.93
+50277,2026-01-10,1053,Elijah Lewis,2,Noise-Cancelling Headphones,Electronics,3,149.99,449.97,0.0,664.93
+50277,2026-01-10,1053,Elijah Lewis,3,USB-C Hub,Electronics,2,54.99,109.98,0.0,664.93
+50277,2026-01-10,1053,Elijah Lewis,4,Webcam,Electronics,1,69.99,69.99,0.0,664.93
+50278,2026-06-21,1016,Ella Lewis,1,Noise-Cancelling Headphones,Electronics,2,149.99,299.98,12.99,347.96
+50278,2026-06-21,1016,Ella Lewis,2,Desk Lamp,Home Office,1,34.99,34.99,12.99,347.96
+50279,2026-03-17,1034,Ella Wright,1,Noise-Cancelling Headphones,Electronics,1,149.99,149.99,7.99,277.95
+50279,2026-03-17,1034,Ella Wright,2,Wireless Mouse,Accessories,1,24.99,24.99,7.99,277.95
+50279,2026-03-17,1034,Ella Wright,3,USB-C Hub,Electronics,1,54.99,54.99,7.99,277.95
+50279,2026-03-17,1034,Ella Wright,4,Laptop Stand,Accessories,1,39.99,39.99,7.99,277.95
+50280,2026-01-11,1043,Jack Johnson,1,Desk Lamp,Home Office,2,34.99,69.98,12.99,82.97
+50281,2026-08-21,1060,Harper Miller,1,Laptop Stand,Accessories,2,39.99,79.98,7.99,317.96
+50281,2026-08-21,1060,Harper Miller,2,Ergonomic Chair,Home Office,1,229.99,229.99,7.99,317.96
+50282,2026-01-19,1041,Isabella Hall,1,Webcam,Electronics,1,69.99,69.99,0.0,189.96
+50282,2026-01-19,1041,Isabella Hall,2,Laptop Stand,Accessories,3,39.99,119.97,0.0,189.96
+50283,2026-02-27,1019,Henry King,1,Mechanical Keyboard,Accessories,1,89.99,89.99,0.0,89.99
+50284,2026-09-21,1059,Ella Walker,1,Wireless Mouse,Accessories,1,24.99,24.99,4.99,224.95
+50284,2026-09-21,1059,Ella Walker,2,USB-C Hub,Electronics,1,54.99,54.99,4.99,224.95
+50284,2026-09-21,1059,Ella Walker,3,Webcam,Electronics,2,69.99,139.98,4.99,224.95
+50285,2026-07-28,1059,Ella Walker,1,Webcam,Electronics,2,69.99,139.98,0.0,164.97
+50285,2026-07-28,1059,Ella Walker,2,Wireless Mouse,Accessories,1,24.99,24.99,0.0,164.97
+50286,2026-04-24,1030,Liam Lewis,1,USB-C Hub,Electronics,1,54.99,54.99,7.99,132.97
+50286,2026-04-24,1030,Liam Lewis,2,Webcam,Electronics,1,69.99,69.99,7.99,132.97
+50287,2026-09-02,1040,Evelyn Lopez,1,Webcam,Electronics,1,69.99,69.99,4.99,114.97
+50287,2026-09-02,1040,Evelyn Lopez,2,Laptop Stand,Accessories,1,39.99,39.99,4.99,114.97
+50288,2026-07-16,1035,Harper Davis,1,Desk Lamp,Home Office,1,34.99,34.99,4.99,219.94
+50288,2026-07-16,1035,Harper Davis,2,Laptop Stand,Accessories,1,39.99,39.99,4.99,219.94
+50288,2026-07-16,1035,Harper Davis,3,Mechanical Keyboard,Accessories,1,89.99,89.99,4.99,219.94
+50288,2026-07-16,1035,Harper Davis,4,Wireless Mouse,Accessories,2,24.99,49.98,4.99,219.94
+50289,2026-06-01,1014,Lucas Walker,1,Laptop Stand,Accessories,1,39.99,39.99,4.99,44.98
+50290,2026-06-28,1039,Ella Miller,1,Laptop Stand,Accessories,2,39.99,79.98,12.99,162.96
+50290,2026-06-28,1039,Ella Miller,2,Webcam,Electronics,1,69.99,69.99,12.99,162.96
+50291,2026-02-25,1049,Noah Young,1,Mechanical Keyboard,Accessories,1,89.99,89.99,7.99,152.97
+50291,2026-02-25,1049,Noah Young,2,USB-C Hub,Electronics,1,54.99,54.99,7.99,152.97
+50292,2026-05-22,1013,Ella Johnson,1,Wireless Mouse,Accessories,1,24.99,24.99,12.99,222.96
+50292,2026-05-22,1013,Ella Johnson,2,Noise-Cancelling Headphones,Electronics,1,149.99,149.99,12.99,222.96
+50292,2026-05-22,1013,Ella Johnson,3,Desk Lamp,Home Office,1,34.99,34.99,12.99,222.96
+50293,2026-03-07,1046,Isabella Brown,1,Wireless Mouse,Accessories,2,24.99,49.98,12.99,102.96
+50293,2026-03-07,1046,Isabella Brown,2,Laptop Stand,Accessories,1,39.99,39.99,12.99,102.96
+50294,2026-07-23,1032,Henry Martinez,1,Mechanical Keyboard,Accessories,1,89.99,89.99,0.0,514.95
+50294,2026-07-23,1032,Henry Martinez,2,USB-C Hub,Electronics,1,54.99,54.99,0.0,514.95
+50294,2026-07-23,1032,Henry Martinez,3,Ergonomic Chair,Home Office,1,229.99,229.99,0.0,514.95
+50294,2026-07-23,1032,Henry Martinez,4,Webcam,Electronics,2,69.99,139.98,0.0,514.95
+50295,2026-06-30,1019,Henry King,1,Desk Lamp,Home Office,1,34.99,34.99,7.99,42.98
+50296,2026-09-13,1048,Liam Walker,1,Webcam,Electronics,1,69.99,69.99,4.99,74.98
+50297,2026-03-16,1052,Logan Lewis,1,Desk Lamp,Home Office,1,34.99,34.99,4.99,249.95
+50297,2026-03-16,1052,Logan Lewis,2,Webcam,Electronics,3,69.99,209.97,4.99,249.95
+50298,2026-05-05,1021,James Brown,1,USB-C Hub,Electronics,1,54.99,54.99,0.0,704.95
+50298,2026-05-05,1021,James Brown,2,Ergonomic Chair,Home Office,2,229.99,459.98,0.0,704.95
+50298,2026-05-05,1021,James Brown,3,Laptop Stand,Accessories,1,39.99,39.99,0.0,704.95
+50298,2026-05-05,1021,James Brown,4,Noise-Cancelling Headphones,Electronics,1,149.99,149.99,0.0,704.95
+50299,2026-08-12,1020,Olivia Miller,1,Desk Lamp,Home Office,1,34.99,34.99,12.99,102.97
+50299,2026-08-12,1020,Olivia Miller,2,USB-C Hub,Electronics,1,54.99,54.99,12.99,102.97
+50300,2026-08-20,1023,Ella Miller,1,Wireless Mouse,Accessories,1,24.99,24.99,12.99,377.95
+50300,2026-08-20,1023,Ella Miller,2,Webcam,Electronics,1,69.99,69.99,12.99,377.95
+50300,2026-08-20,1023,Ella Miller,3,Ergonomic Chair,Home Office,1,229.99,229.99,12.99,377.95
+50300,2026-08-20,1023,Ella Miller,4,Laptop Stand,Accessories,1,39.99,39.99,12.99,377.95
+50301,2026-04-07,1057,Noah Smith,1,Ergonomic Chair,Home Office,1,229.99,229.99,7.99,452.94
+50301,2026-04-07,1057,Noah Smith,2,USB-C Hub,Electronics,2,54.99,109.98,7.99,452.94
+50301,2026-04-07,1057,Noah Smith,3,Desk Lamp,Home Office,1,34.99,34.99,7.99,452.94
+50301,2026-04-07,1057,Noah Smith,4,Webcam,Electronics,1,69.99,69.99,7.99,452.94
+50302,2026-02-08,1024,Henry King,1,Mechanical Keyboard,Accessories,1,89.99,89.99,7.99,627.93
+50302,2026-02-08,1024,Henry King,2,Laptop Stand,Accessories,2,39.99,79.98,7.99,627.93
+50302,2026-02-08,1024,Henry King,3,Noise-Cancelling Headphones,Electronics,3,149.99,449.97,7.99,627.93
+50303,2026-08-04,1057,Noah Smith,1,Webcam,Electronics,1,69.99,69.99,4.99,109.97
+50303,2026-08-04,1057,Noah Smith,2,Desk Lamp,Home Office,1,34.99,34.99,4.99,109.97
+50304,2026-01-31,1012,James Smith,1,Wireless Mouse,Accessories,1,24.99,24.99,0.0,114.98
+50304,2026-01-31,1012,James Smith,2,Mechanical Keyboard,Accessories,1,89.99,89.99,0.0,114.98
+50305,2026-06-07,1001,Isabella Brown,1,Laptop Stand,Accessories,2,39.99,79.98,12.99,182.96
+50305,2026-06-07,1001,Isabella Brown,2,Mechanical Keyboard,Accessories,1,89.99,89.99,12.99,182.96
+50306,2026-01-16,1043,Jack Johnson,1,Ergonomic Chair,Home Office,2,229.99,459.98,7.99,467.97
+50307,2026-09-30,1058,Ethan Walker,1,Mechanical Keyboard,Accessories,1,89.99,89.99,4.99,164.97
+50307,2026-09-30,1058,Ethan Walker,2,Webcam,Electronics,1,69.99,69.99,4.99,164.97
+50308,2026-09-23,1011,Noah Clark,1,Wireless Mouse,Accessories,1,24.99,24.99,0.0,134.96
+50308,2026-09-23,1011,Noah Clark,2,Laptop Stand,Accessories,1,39.99,39.99,0.0,134.96
+50308,2026-09-23,1011,Noah Clark,3,Desk Lamp,Home Office,2,34.99,69.98,0.0,134.96
+50309,2026-08-09,1040,Evelyn Lopez,1,Laptop Stand,Accessories,1,39.99,39.99,7.99,427.96
+50309,2026-08-09,1040,Evelyn Lopez,2,Noise-Cancelling Headphones,Electronics,1,149.99,149.99,7.99,427.96
+50309,2026-08-09,1040,Evelyn Lopez,3,Ergonomic Chair,Home Office,1,229.99,229.99,7.99,427.96
+50310,2026-05-17,1003,Liam Johnson,1,Wireless Mouse,Accessories,1,24.99,24.99,4.99,119.97
+50310,2026-05-17,1003,Liam Johnson,2,Mechanical Keyboard,Accessories,1,89.99,89.99,4.99,119.97
+50311,2026-04-23,1004,Henry Johnson,1,Laptop Stand,Accessories,1,39.99,39.99,4.99,789.94
+50311,2026-04-23,1004,Henry Johnson,2,USB-C Hub,Electronics,1,54.99,54.99,4.99,789.94
+50311,2026-04-23,1004,Henry Johnson,3,Ergonomic Chair,Home Office,3,229.99,689.97,4.99,789.94
+50312,2026-03-30,1055,Noah Miller,1,Ergonomic Chair,Home Office,1,229.99,229.99,7.99,237.98
+50313,2026-09-11,1017,Amelia Smith,1,Wireless Mouse,Accessories,1,24.99,24.99,4.99,614.94
+50313,2026-09-11,1017,Amelia Smith,2,Ergonomic Chair,Home Office,1,229.99,229.99,4.99,614.94
+50313,2026-09-11,1017,Amelia Smith,3,Noise-Cancelling Headphones,Electronics,2,149.99,299.98,4.99,614.94
+50313,2026-09-11,1017,Amelia Smith,4,USB-C Hub,Electronics,1,54.99,54.99,4.99,614.94
+50314,2026-05-05,1056,Elijah Hall,1,Mechanical Keyboard,Accessories,1,89.99,89.99,7.99,97.98
+50315,2026-05-29,1001,Isabella Brown,1,Noise-Cancelling Headphones,Electronics,1,149.99,149.99,0.0,149.99
+50316,2026-07-17,1056,Elijah Hall,1,Wireless Mouse,Accessories,1,24.99,24.99,0.0,24.99
+50317,2026-06-29,1059,Ella Walker,1,Desk Lamp,Home Office,1,34.99,34.99,12.99,72.97
+50317,2026-06-29,1059,Ella Walker,2,Wireless Mouse,Accessories,1,24.99,24.99,12.99,72.97
+50318,2026-05-23,1003,Liam Johnson,1,Noise-Cancelling Headphones,Electronics,1,149.99,149.99,4.99,189.97
+50318,2026-05-23,1003,Liam Johnson,2,Desk Lamp,Home Office,1,34.99,34.99,4.99,189.97
+50319,2026-05-19,1013,Ella Johnson,1,Mechanical Keyboard,Accessories,1,89.99,89.99,12.99,242.96
+50319,2026-05-19,1013,Ella Johnson,2,Webcam,Electronics,2,69.99,139.98,12.99,242.96
+50320,2026-03-23,1016,Ella Lewis,1,USB-C Hub,Electronics,1,54.99,54.99,12.99,67.98
+50321,2026-04-17,1038,Lucas Johnson,1,Ergonomic Chair,Home Office,1,229.99,229.99,4.99,234.98
+50322,2026-03-09,1029,Noah Lewis,1,Webcam,Electronics,1,69.99,69.99,7.99,397.95
+50322,2026-03-09,1029,Noah Lewis,2,Ergonomic Chair,Home Office,1,229.99,229.99,7.99,397.95
+50322,2026-03-09,1029,Noah Lewis,3,USB-C Hub,Electronics,1,54.99,54.99,7.99,397.95
+50322,2026-03-09,1029,Noah Lewis,4,Desk Lamp,Home Office,1,34.99,34.99,7.99,397.95
+50323,2026-03-04,1049,Noah Young,1,Wireless Mouse,Accessories,2,24.99,49.98,7.99,197.95
+50323,2026-03-04,1049,Noah Young,2,Webcam,Electronics,2,69.99,139.98,7.99,197.95
+50324,2026-03-16,1002,Amelia Walker,1,Desk Lamp,Home Office,1,34.99,34.99,0.0,34.99
+50325,2026-04-29,1050,Henry Lewis,1,Wireless Mouse,Accessories,1,24.99,24.99,0.0,24.99
+50326,2026-09-14,1024,Henry King,1,USB-C Hub,Electronics,1,54.99,54.99,7.99,402.95
+50326,2026-09-14,1024,Henry King,2,Laptop Stand,Accessories,1,39.99,39.99,7.99,402.95
+50326,2026-09-14,1024,Henry King,3,Noise-Cancelling Headphones,Electronics,2,149.99,299.98,7.99,402.95
+50327,2026-05-25,1026,Ella Lewis,1,Ergonomic Chair,Home Office,3,229.99,689.97,4.99,694.96
+50328,2026-01-16,1012,James Smith,1,Noise-Cancelling Headphones,Electronics,1,149.99,149.99,12.99,162.98
+50329,2026-08-25,1046,Isabella Brown,1,Desk Lamp,Home Office,2,34.99,69.98,7.99,77.97
+50330,2026-04-04,1007,Evelyn Garcia,1,Webcam,Electronics,2,69.99,139.98,4.99,144.97
+50331,2026-07-27,1003,Liam Johnson,1,Mechanical Keyboard,Accessories,1,89.99,89.99,12.99,102.98
+50332,2026-03-21,1020,Olivia Miller,1,Laptop Stand,Accessories,1,39.99,39.99,7.99,47.98
+50333,2026-04-27,1012,James Smith,1,Webcam,Electronics,3,69.99,209.97,7.99,272.95
+50333,2026-04-27,1012,James Smith,2,USB-C Hub,Electronics,1,54.99,54.99,7.99,272.95
+50334,2026-05-27,1049,Noah Young,1,Laptop Stand,Accessories,1,39.99,39.99,0.0,364.96
+50334,2026-05-27,1049,Noah Young,2,Wireless Mouse,Accessories,1,24.99,24.99,0.0,364.96
+50334,2026-05-27,1049,Noah Young,3,Noise-Cancelling Headphones,Electronics,2,149.99,299.98,0.0,364.96
+50335,2026-02-14,1023,Ella Miller,1,Desk Lamp,Home Office,1,34.99,34.99,4.99,189.97
+50335,2026-02-14,1023,Ella Miller,2,Noise-Cancelling Headphones,Electronics,1,149.99,149.99,4.99,189.97
+50336,2026-08-15,1028,Emma Clark,1,Ergonomic Chair,Home Office,1,229.99,229.99,12.99,487.93
+50336,2026-08-15,1028,Emma Clark,2,Webcam,Electronics,2,69.99,139.98,12.99,487.93
+50336,2026-08-15,1028,Emma Clark,3,Laptop Stand,Accessories,2,39.99,79.98,12.99,487.93
+50336,2026-08-15,1028,Emma Clark,4,Wireless Mouse,Accessories,1,24.99,24.99,12.99,487.93
+50337,2026-01-23,1013,Ella Johnson,1,Webcam,Electronics,1,69.99,69.99,4.99,364.95
+50337,2026-01-23,1013,Ella Johnson,2,Wireless Mouse,Accessories,1,24.99,24.99,4.99,364.95
+50337,2026-01-23,1013,Ella Johnson,3,Ergonomic Chair,Home Office,1,229.99,229.99,4.99,364.95
+50337,2026-01-23,1013,Ella Johnson,4,Desk Lamp,Home Office,1,34.99,34.99,4.99,364.95
+50338,2026-02-17,1027,Sophia Davis,1,Webcam,Electronics,1,69.99,69.99,4.99,74.98
+50339,2026-09-07,1046,Isabella Brown,1,USB-C Hub,Electronics,1,54.99,54.99,4.99,209.97
+50339,2026-09-07,1046,Isabella Brown,2,Noise-Cancelling Headphones,Electronics,1,149.99,149.99,4.99,209.97
+50340,2026-06-29,1009,James Martinez,1,Mechanical Keyboard,Accessories,1,89.99,89.99,4.99,244.97
+50340,2026-06-29,1009,James Martinez,2,Noise-Cancelling Headphones,Electronics,1,149.99,149.99,4.99,244.97
+50341,2026-03-02,1041,Isabella Hall,1,Mechanical Keyboard,Accessories,1,89.99,89.99,4.99,244.97
+50341,2026-03-02,1041,Isabella Hall,2,Noise-Cancelling Headphones,Electronics,1,149.99,149.99,4.99,244.97
+50342,2026-07-27,1050,Henry Lewis,1,Wireless Mouse,Accessories,1,24.99,24.99,0.0,264.97
+50342,2026-07-27,1050,Henry Lewis,2,Noise-Cancelling Headphones,Electronics,1,149.99,149.99,0.0,264.97
+50342,2026-07-27,1050,Henry Lewis,3,Mechanical Keyboard,Accessories,1,89.99,89.99,0.0,264.97
+50343,2026-06-05,1018,Lucas Smith,1,Webcam,Electronics,3,69.99,209.97,12.99,222.96
+50344,2026-06-16,1011,Noah Clark,1,Noise-Cancelling Headphones,Electronics,1,149.99,149.99,4.99,244.97
+50344,2026-06-16,1011,Noah Clark,2,Mechanical Keyboard,Accessories,1,89.99,89.99,4.99,244.97
+50345,2026-09-06,1030,Liam Lewis,1,Noise-Cancelling Headphones,Electronics,1,149.99,149.99,7.99,157.98
+50346,2026-08-11,1032,Henry Martinez,1,Noise-Cancelling Headphones,Electronics,2,149.99,299.98,7.99,347.96
+50346,2026-08-11,1032,Henry Martinez,2,Laptop Stand,Accessories,1,39.99,39.99,7.99,347.96
+50347,2026-05-09,1041,Isabella Hall,1,Wireless Mouse,Accessories,1,24.99,24.99,0.0,254.98
+50347,2026-05-09,1041,Isabella Hall,2,Ergonomic Chair,Home Office,1,229.99,229.99,0.0,254.98
+50348,2026-06-01,1010,Noah Garcia,1,Mechanical Keyboard,Accessories,2,89.99,179.98,0.0,179.98
+50349,2026-06-08,1054,Harper Johnson,1,Noise-Cancelling Headphones,Electronics,1,149.99,149.99,4.99,209.97
+50349,2026-06-08,1054,Harper Johnson,2,USB-C Hub,Electronics,1,54.99,54.99,4.99,209.97
+50350,2026-07-08,1015,Ella Smith,1,Noise-Cancelling Headphones,Electronics,1,149.99,149.99,7.99,157.98
+50351,2026-02-24,1003,Liam Johnson,1,Desk Lamp,Home Office,1,34.99,34.99,4.99,79.97
+50351,2026-02-24,1003,Liam Johnson,2,Laptop Stand,Accessories,1,39.99,39.99,4.99,79.97
+50352,2026-06-03,1011,Noah Clark,1,Wireless Mouse,Accessories,1,24.99,24.99,4.99,259.97
+50352,2026-06-03,1011,Noah Clark,2,Ergonomic Chair,Home Office,1,229.99,229.99,4.99,259.97
+50353,2026-02-15,1026,Ella Lewis,1,Ergonomic Chair,Home Office,1,229.99,229.99,7.99,697.92
+50353,2026-02-15,1026,Ella Lewis,2,USB-C Hub,Electronics,2,54.99,109.98,7.99,697.92
+50353,2026-02-15,1026,Ella Lewis,3,Wireless Mouse,Accessories,2,24.99,49.98,7.99,697.92
+50353,2026-02-15,1026,Ella Lewis,4,Noise-Cancelling Headphones,Electronics,2,149.99,299.98,7.99,697.92
+50354,2026-03-15,1028,Emma Clark,1,Laptop Stand,Accessories,2,39.99,79.98,12.99,92.97
+50355,2026-08-13,1005,Logan Lewis,1,Mechanical Keyboard,Accessories,1,89.99,89.99,4.99,94.98
+50356,2026-08-15,1001,Isabella Brown,1,Noise-Cancelling Headphones,Electronics,1,149.99,149.99,12.99,257.96
+50356,2026-08-15,1001,Isabella Brown,2,Webcam,Electronics,1,69.99,69.99,12.99,257.96
+50356,2026-08-15,1001,Isabella Brown,3,Wireless Mouse,Accessories,1,24.99,24.99,12.99,257.96
+50357,2026-03-21,1035,Harper Davis,1,Wireless Mouse,Accessories,1,24.99,24.99,7.99,197.95
+50357,2026-03-21,1035,Harper Davis,2,Desk Lamp,Home Office,1,34.99,34.99,7.99,197.95
+50357,2026-03-21,1035,Harper Davis,3,Laptop Stand,Accessories,1,39.99,39.99,7.99,197.95
+50357,2026-03-21,1035,Harper Davis,4,Mechanical Keyboard,Accessories,1,89.99,89.99,7.99,197.95
+50358,2026-06-03,1009,James Martinez,1,Laptop Stand,Accessories,1,39.99,39.99,4.99,104.96
+50358,2026-06-03,1009,James Martinez,2,Desk Lamp,Home Office,1,34.99,34.99,4.99,104.96
+50358,2026-06-03,1009,James Martinez,3,Wireless Mouse,Accessories,1,24.99,24.99,4.99,104.96
+50359,2026-07-10,1043,Jack Johnson,1,Desk Lamp,Home Office,1,34.99,34.99,4.99,129.97
+50359,2026-07-10,1043,Jack Johnson,2,Mechanical Keyboard,Accessories,1,89.99,89.99,4.99,129.97
+50360,2026-04-27,1008,Liam Johnson,1,USB-C Hub,Electronics,1,54.99,54.99,0.0,54.99
+50361,2026-05-10,1054,Harper Johnson,1,USB-C Hub,Electronics,2,54.99,109.98,7.99,187.96
+50361,2026-05-10,1054,Harper Johnson,2,Webcam,Electronics,1,69.99,69.99,7.99,187.96
+50362,2026-04-26,1030,Liam Lewis,1,Wireless Mouse,Accessories,2,24.99,49.98,0.0,199.97
+50362,2026-04-26,1030,Liam Lewis,2,Noise-Cancelling Headphones,Electronics,1,149.99,149.99,0.0,199.97
+50363,2026-08-14,1052,Logan Lewis,1,Wireless Mouse,Accessories,1,24.99,24.99,0.0,24.99
+50364,2026-07-20,1044,Emma Clark,1,USB-C Hub,Electronics,2,54.99,109.98,12.99,192.96
+50364,2026-07-20,1044,Emma Clark,2,Webcam,Electronics,1,69.99,69.99,12.99,192.96
+50365,2026-01-30,1050,Henry Lewis,1,Laptop Stand,Accessories,1,39.99,39.99,0.0,129.98
+50365,2026-01-30,1050,Henry Lewis,2,Mechanical Keyboard,Accessories,1,89.99,89.99,0.0,129.98
+50366,2026-08-24,1014,Lucas Walker,1,Mechanical Keyboard,Accessories,2,89.99,179.98,12.99,192.97
+50367,2026-04-14,1006,Liam Wright,1,Noise-Cancelling Headphones,Electronics,2,149.99,299.98,7.99,332.96
+50367,2026-04-14,1006,Liam Wright,2,Wireless Mouse,Accessories,1,24.99,24.99,7.99,332.96
+50368,2026-01-06,1049,Noah Young,1,Wireless Mouse,Accessories,2,24.99,49.98,7.99,377.95
+50368,2026-01-06,1049,Noah Young,2,Ergonomic Chair,Home Office,1,229.99,229.99,7.99,377.95
+50368,2026-01-06,1049,Noah Young,3,Mechanical Keyboard,Accessories,1,89.99,89.99,7.99,377.95
+50369,2026-07-02,1007,Evelyn Garcia,1,Wireless Mouse,Accessories,1,24.99,24.99,4.99,69.97
+50369,2026-07-02,1007,Evelyn Garcia,2,Laptop Stand,Accessories,1,39.99,39.99,4.99,69.97
+50370,2026-01-11,1029,Noah Lewis,1,Ergonomic Chair,Home Office,1,229.99,229.99,12.99,357.95
+50370,2026-01-11,1029,Noah Lewis,2,Laptop Stand,Accessories,2,39.99,79.98,12.99,357.95
+50370,2026-01-11,1029,Noah Lewis,3,Desk Lamp,Home Office,1,34.99,34.99,12.99,357.95
+50371,2026-05-29,1036,Ethan Garcia,1,Desk Lamp,Home Office,1,34.99,34.99,7.99,322.95
+50371,2026-05-29,1036,Ethan Garcia,2,Ergonomic Chair,Home Office,1,229.99,229.99,7.99,322.95
+50371,2026-05-29,1036,Ethan Garcia,3,Wireless Mouse,Accessories,2,24.99,49.98,7.99,322.95
+50372,2026-01-08,1029,Noah Lewis,1,Mechanical Keyboard,Accessories,1,89.99,89.99,12.99,102.98
+50373,2026-01-17,1056,Elijah Hall,1,Laptop Stand,Accessories,2,39.99,79.98,12.99,807.93
+50373,2026-01-17,1056,Elijah Hall,2,Ergonomic Chair,Home Office,3,229.99,689.97,12.99,807.93
+50373,2026-01-17,1056,Elijah Hall,3,Wireless Mouse,Accessories,1,24.99,24.99,12.99,807.93
+50374,2026-07-21,1029,Noah Lewis,1,Wireless Mouse,Accessories,1,24.99,24.99,7.99,32.98
+50375,2026-06-09,1014,Lucas Walker,1,Laptop Stand,Accessories,2,39.99,79.98,7.99,147.95
+50375,2026-06-09,1014,Lucas Walker,2,Wireless Mouse,Accessories,1,24.99,24.99,7.99,147.95
+50375,2026-06-09,1014,Lucas Walker,3,Desk Lamp,Home Office,1,34.99,34.99,7.99,147.95
+50376,2026-07-01,1060,Harper Miller,1,Noise-Cancelling Headphones,Electronics,1,149.99,149.99,12.99,162.98
+50377,2026-05-08,1002,Amelia Walker,1,Laptop Stand,Accessories,2,39.99,79.98,4.99,234.96
+50377,2026-05-08,1002,Amelia Walker,2,Noise-Cancelling Headphones,Electronics,1,149.99,149.99,4.99,234.96
+50378,2026-05-20,1025,Mason Johnson,1,Webcam,Electronics,1,69.99,69.99,7.99,77.98
+50379,2026-03-13,1034,Ella Wright,1,Laptop Stand,Accessories,1,39.99,39.99,12.99,377.95
+50379,2026-03-13,1034,Ella Wright,2,Webcam,Electronics,1,69.99,69.99,12.99,377.95
+50379,2026-03-13,1034,Ella Wright,3,Ergonomic Chair,Home Office,1,229.99,229.99,12.99,377.95
+50379,2026-03-13,1034,Ella Wright,4,Wireless Mouse,Accessories,1,24.99,24.99,12.99,377.95
+50380,2026-05-02,1051,Isabella Davis,1,Mechanical Keyboard,Accessories,3,89.99,269.97,7.99,467.94
+50380,2026-05-02,1051,Isabella Davis,2,Noise-Cancelling Headphones,Electronics,1,149.99,149.99,7.99,467.94
+50380,2026-05-02,1051,Isabella Davis,3,Laptop Stand,Accessories,1,39.99,39.99,7.99,467.94
+50381,2026-05-06,1055,Noah Miller,1,Desk Lamp,Home Office,1,34.99,34.99,7.99,42.98
+50382,2026-06-15,1022,Henry Johnson,1,Ergonomic Chair,Home Office,2,229.99,459.98,4.99,764.93
+50382,2026-06-15,1022,Henry Johnson,2,Webcam,Electronics,3,69.99,209.97,4.99,764.93
+50382,2026-06-15,1022,Henry Johnson,3,Mechanical Keyboard,Accessories,1,89.99,89.99,4.99,764.93
+50383,2026-01-04,1014,Lucas Walker,1,Ergonomic Chair,Home Office,1,229.99,229.99,12.99,332.96
+50383,2026-01-04,1014,Lucas Walker,2,USB-C Hub,Electronics,1,54.99,54.99,12.99,332.96
+50383,2026-01-04,1014,Lucas Walker,3,Desk Lamp,Home Office,1,34.99,34.99,12.99,332.96
+50384,2026-03-15,1005,Logan Lewis,1,Webcam,Electronics,2,69.99,139.98,7.99,147.97
+50385,2026-06-24,1036,Ethan Garcia,1,USB-C Hub,Electronics,1,54.99,54.99,0.0,54.99
+50386,2026-06-30,1020,Olivia Miller,1,Noise-Cancelling Headphones,Electronics,2,149.99,299.98,0.0,674.94
+50386,2026-06-30,1020,Olivia Miller,2,Desk Lamp,Home Office,1,34.99,34.99,0.0,674.94
+50386,2026-06-30,1020,Olivia Miller,3,Ergonomic Chair,Home Office,1,229.99,229.99,0.0,674.94
+50386,2026-06-30,1020,Olivia Miller,4,USB-C Hub,Electronics,2,54.99,109.98,0.0,674.94
+50387,2026-01-12,1035,Harper Davis,1,Webcam,Electronics,1,69.99,69.99,0.0,244.97
+50387,2026-01-12,1035,Harper Davis,2,Wireless Mouse,Accessories,1,24.99,24.99,0.0,244.97
+50387,2026-01-12,1035,Harper Davis,3,Noise-Cancelling Headphones,Electronics,1,149.99,149.99,0.0,244.97
+50388,2026-05-25,1039,Ella Miller,1,Wireless Mouse,Accessories,3,24.99,74.97,0.0,339.95
+50388,2026-05-25,1039,Ella Miller,2,Ergonomic Chair,Home Office,1,229.99,229.99,0.0,339.95
+50388,2026-05-25,1039,Ella Miller,3,Desk Lamp,Home Office,1,34.99,34.99,0.0,339.95
+50389,2026-06-24,1052,Logan Lewis,1,Laptop Stand,Accessories,1,39.99,39.99,7.99,97.96
+50389,2026-06-24,1052,Logan Lewis,2,Wireless Mouse,Accessories,2,24.99,49.98,7.99,97.96
+50390,2026-06-15,1041,Isabella Hall,1,USB-C Hub,Electronics,1,54.99,54.99,0.0,179.97
+50390,2026-06-15,1041,Isabella Hall,2,Mechanical Keyboard,Accessories,1,89.99,89.99,0.0,179.97
+50390,2026-06-15,1041,Isabella Hall,3,Desk Lamp,Home Office,1,34.99,34.99,0.0,179.97
+50391,2026-03-31,1022,Henry Johnson,1,Desk Lamp,Home Office,1,34.99,34.99,0.0,34.99
+50392,2026-06-21,1040,Evelyn Lopez,1,Desk Lamp,Home Office,1,34.99,34.99,0.0,179.97
+50392,2026-06-21,1040,Evelyn Lopez,2,Mechanical Keyboard,Accessories,1,89.99,89.99,0.0,179.97
+50392,2026-06-21,1040,Evelyn Lopez,3,USB-C Hub,Electronics,1,54.99,54.99,0.0,179.97
+50393,2026-01-29,1021,James Brown,1,Noise-Cancelling Headphones,Electronics,1,149.99,149.99,0.0,174.98
+50393,2026-01-29,1021,James Brown,2,Wireless Mouse,Accessories,1,24.99,24.99,0.0,174.98
+50394,2026-02-16,1034,Ella Wright,1,Noise-Cancelling Headphones,Electronics,1,149.99,149.99,12.99,162.98
+50395,2026-03-20,1044,Emma Clark,1,Noise-Cancelling Headphones,Electronics,2,149.99,299.98,7.99,332.96
+50395,2026-03-20,1044,Emma Clark,2,Wireless Mouse,Accessories,1,24.99,24.99,7.99,332.96
+50396,2026-06-08,1003,Liam Johnson,1,Ergonomic Chair,Home Office,1,229.99,229.99,7.99,307.97
+50396,2026-06-08,1003,Liam Johnson,2,Webcam,Electronics,1,69.99,69.99,7.99,307.97
+50397,2026-03-09,1018,Lucas Smith,1,Ergonomic Chair,Home Office,1,229.99,229.99,0.0,229.99
+50398,2026-07-05,1050,Henry Lewis,1,USB-C Hub,Electronics,2,54.99,109.98,12.99,122.97
+50399,2026-01-15,1006,Liam Wright,1,Wireless Mouse,Accessories,1,24.99,24.99,4.99,69.97
+50399,2026-01-15,1006,Liam Wright,2,Laptop Stand,Accessories,1,39.99,39.99,4.99,69.97
+50400,2026-07-07,1039,Ella Miller,1,Mechanical Keyboard,Accessories,1,89.99,89.99,4.99,129.97
+50400,2026-07-07,1039,Ella Miller,2,Desk Lamp,Home Office,1,34.99,34.99,4.99,129.97
